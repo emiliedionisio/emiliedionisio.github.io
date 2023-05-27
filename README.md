@@ -1,5 +1,5 @@
 # EMILIE DIONISIO 
-![PROJECTS](/edprojects.md) 
+![PROJECTS](/edprojects.md) <br />
 **New York, NY 10003** <br />
 📫 edionisio@swishport.com <br />
 📲 +1.646.770.1205
