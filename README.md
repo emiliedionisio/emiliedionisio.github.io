@@ -121,13 +121,13 @@ Supervised, lead, designed and remodeled a new network topology for the company'
 		<tr valign="top">
 			<td><b>Cybersecurity | Expected Graduation - September 2023</b><br />
 			The Knowledge House, Bronx NY 1045</td>
-			<td>CCNA Routing &amp; Switching | January - March 2019<br />
+			<td><b>CCNA Routing &amp; Switching | January - March 2019</b><br />
 			School for Cooperative Technical Education, New York, NY 10029</td>
 		</tr>
 		<tr>
 			<td><b>AWS Solutions Architect | June 2023M</b><br />
 			Queensborough Community College, Queens, NY 11364</td>
-			<td>CompTIA Network+ | August -December 2019<br />
+			<td><b>CompTIA Network+ | August -December 2019</b><br />
 			Brooklyn Adult Learning Center, New York, NY 11216</td>
 		</tr>
 		<tr>
