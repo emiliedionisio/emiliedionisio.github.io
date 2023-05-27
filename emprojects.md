@@ -21,9 +21,9 @@ The project demonstrated the importance of creating a secure network infrastruct
 
 ### Tools Used: <br />
 
-| <b>VirtualBox:</b> VirtualBox is an open-source virtualization software that allows users to create and run virtual machines on their computers. It provides a platform for running multiple operating systems simultaneously, enabling users to test software in different environments or isolate potentially risky applications. |
-| -------------------------------- |
-! ![App Screenshot](https://drive.google.com/uc?export=view&id=1toC6lu3WK28oH_4My6XiSomY-iDIQRXg) |
+<b>VirtualBox:</b> VirtualBox is an open-source virtualization software that allows users to create and run virtual machines on their computers. It provides a platform for running multiple operating systems simultaneously, enabling users to test software in different environments or isolate potentially risky applications. 
+
+![App Screenshot](https://drive.google.com/uc?export=view&id=1toC6lu3WK28oH_4My6XiSomY-iDIQRXg) 
 
 <b>Splunk:</b> Splunk is a software platform used for analyzing and monitoring machine-generated big data. It collects and indexes data from various sources such as logs, events, and metrics, providing real-time insights, troubleshooting capabilities, and security monitoring. Splunk enables organizations to gain operational intelligence and make data-driven decisions.
 
