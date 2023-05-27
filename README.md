@@ -157,7 +157,7 @@ Supervised, lead, designed and remodeled a new network topology for the company'
 
 
 
-
+<!---
 
 👩‍💻 I'm currently working on...
 
@@ -172,7 +172,7 @@ Supervised, lead, designed and remodeled a new network topology for the company'
 <!---|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1_Px6rC01N12xsDqnYvmyWORzAiwlZXLa)  |   ![App Screenshot](https://drive.google.com/uc?export=view&id=1F_FzXU7DaIzoOblHXQdz4OXzkp2pYw_j)  |    ![App Screenshot](https://drive.google.com/uc?export=view&id=1SF_Rf19mnJaVMP2AVyEiuWalSYp6diR4) |  ![App Screenshot](https://drive.google.com/uc?export=view&id=120uOb3Mj3VsCHq8deMUNFuUsdZFwCyCI)  |
 | ---------------------------- | -------------------------- | --------------------- | ------------------ | --->
 
-
+<!---
 ## 🚀 About Me
 
 With over 7+ years of experience in Technical and Desktop Support and 3 years of Network Administration experience for small businesses, I possess strong skills in computer hardware and software installation, repair, and maintenance. I excel at identifying and resolving complex technical issues and implementing effective security measures to troubleshoot vulnerabilities.
@@ -201,7 +201,7 @@ As a proactive and self-motivated individual, I am highly efficient in providing
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
-
+--->
 
 <!---### Emilie Dionisio👩‍
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdionisio/)
