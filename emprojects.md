@@ -12,6 +12,7 @@ The second host machine had a cluster of three Ubuntu servers, isolated from the
 ![alt text](image.jpg)
 -->
 
+![App Screenshot](https://drive.google.com/uc?export=view&id=1rxzGhW6orP_iGggyOpTBK9i-MatpVLuA)
 
 ![Phase 1 Topology](https://drive.google.com/uc?export=view&id=1ntKZmK5b0zqiIUvZ_DsmM9ewL-LK4OZZ)
 
