@@ -1,5 +1,5 @@
 # EMILIE DIONISIO 									
-### Projects | Research | CCNA Journey
+### ![Projects](/emprojects.md) | Research | CCNA Journey
 <br />
 **New York, NY 10003** <br />
 📫 edionisio@swishport.com <br />
