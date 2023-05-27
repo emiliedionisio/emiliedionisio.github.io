@@ -3,7 +3,7 @@
 ### [Projects](/emprojects.md) | Research | CCNA Journey
 📫 edionisio@swishport.com <br />
 📲 +1.646.770.1205
-<p><br />
+<p>
   <a href="https://www.linkedin.com/in/emdionisio/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
    </a>  		
