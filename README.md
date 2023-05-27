@@ -119,7 +119,7 @@ Supervised, lead, designed and remodeled a new network topology for the company'
 <table border="1" cellpadding="0" cellspacing="0" style="width: 500px;">
 	<tbody>
 		<tr valign="top">
-			<td>Cybersecurity | Expected Graduation - September 2023<br />
+			<td><b>Cybersecurity | Expected Graduation - September 2023</b><br />
 			The Knowledge House, Bronx NY 1045</td>
 			<td>CCNA Routing &amp; Switching | January - March 2019<br />
 			School for Cooperative Technical Education, New York, NY 10029</td>
