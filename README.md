@@ -125,22 +125,22 @@ Supervised, lead, designed and remodeled a new network topology for the company'
 			School for Cooperative Technical Education, New York, NY 10029</td>
 		</tr>
 		<tr>
-			<td>AWS Solutions Architect |&nbsp; June 2023<br />
+			<td><b>AWS Solutions Architect | June 2023M</b><br />
 			Queensborough Community College, Queens, NY 11364</td>
 			<td>CompTIA Network+ | August -December 2019<br />
 			Brooklyn Adult Learning Center, New York, NY 11216</td>
 		</tr>
 		<tr>
-			<td>Junior Cloud Practitioner | January - March 2022<br />
+			<td><b>Junior Cloud Practitioner | January - March 2022</b><br />
 			Generation.org</td>
-			<td>Windows Server 2012 Administration | January - March 2017<br />
+			<td><b>Windows Server 2012 Administration | January - March 2017</b><br />
 			New York Business Institute of Technology, New York, NY</td>
 		</tr>
 		<tr>
-			<td>MCSA: Windows Server 2016 Administration | April - July 2018<br />
+			<td><b>MCSA: Windows Server 2016 Administration | April - July 2018</b><br />
 			New York Business Institute of Technology, New York, NY 10016</td>
-			<td>CompTIA A+ Information Technology | 2016<br />
-			CoopTech &ndash; Adult Education, New York, NY 10029</td>
+			<td><b>CompTIA A+ Information Technology | 2016</b><br />
+			CoopTech Adult Education, New York, NY 10029</td>
 		</tr>
 	</tbody>
 </table>
