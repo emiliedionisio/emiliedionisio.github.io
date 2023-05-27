@@ -22,7 +22,7 @@ Currently, I am expanding my knowledge and skills in Cybersecurity and AWS Cloud
 As a proactive and self-motivated individual, I am highly efficient in providing exceptional customer service. I possess a natural ability to quickly learn new skills and find innovative solutions to complex problems. With a strong commitment to professional development, I continuously strive to enhance my skills and knowledge, delivering effective solutions to any challenge that may arise.
 
 ## CERTIFICATIONS
-### Badges: ![Credly Badges](https://www.credly.com/users/emilie-dionisio-charriez/badges)
+### Badges: ![](https://www.credly.com/users/emilie-dionisio-charriez/badges)
 - CCNA: Switching, Routing, and Wireless Essentials
 - CompTIA Network+ 
 - Certified AWS Cloud Practitioner
