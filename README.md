@@ -29,7 +29,7 @@
   <a href="https://f14streetphotog.wixsite.com/fstopmoment">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-</p>| Title |
+</p> | Title |
 | ----------- | ----------- |
 | Paragraph | Text |
 
