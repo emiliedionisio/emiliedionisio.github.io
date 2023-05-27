@@ -19,11 +19,11 @@ The fourth host machine was used for testing, with the installation of metasploi
 
 The project demonstrated the importance of creating a secure network infrastructure and the various tools and techniques available to achieve that. The project also demonstrated the importance of using a variety of security controls to protect a network from unauthorized access.
 
-### Tools Used:
-
-![App Screenshot](https://drive.google.com/uc?export=view&id=1toC6lu3WK28oH_4My6XiSomY-iDIQRXg)
+### Tools Used: <br />
 
 VirtualBox: VirtualBox is an open-source virtualization software that allows users to create and run virtual machines on their computers. It provides a platform for running multiple operating systems simultaneously, enabling users to test software in different environments or isolate potentially risky applications.
+
+![App Screenshot](https://drive.google.com/uc?export=view&id=1toC6lu3WK28oH_4My6XiSomY-iDIQRXg)
 
 
 - Splunk
