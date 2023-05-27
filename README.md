@@ -6,8 +6,7 @@
    </a>  
     <a href="https://github.com/emiliedionisio">
     <img src="https://skillicons.dev/icons?i=github" />
-  </a>   
-  </a>  
+  </a>    
     <a href="https://f14streetphotog.wixsite.com/fstopmoment">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
