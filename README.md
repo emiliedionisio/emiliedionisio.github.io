@@ -30,6 +30,12 @@ As a proactive and self-motivated individual, I am highly efficient in providing
 - CompTIA A+
 
 
+
+
+
+
+
+
 👩‍💻 I'm currently working on...
 
 🧠 I'm currently learning...
