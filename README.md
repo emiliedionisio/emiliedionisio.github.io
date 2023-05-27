@@ -57,7 +57,7 @@ As a proactive and self-motivated individual, I am highly efficient in providing
 
 ## 💻 EXPERIENCE
 **Self Employed - IT Consultant | Network Administrator at The Neighborhood Playhouse**
-New York, NY 10003 | August 2019 - PRESENT
+<br /> New York, NY 10003 | August 2019 - PRESENT
 - Act as a Network Administrator and in-charge of all end-user technical needs.
 - Administer the Windows Server, including providing network credentials via Active Directory and Group Policy.
 - Provide on-call and remote technical support to all end-users.
