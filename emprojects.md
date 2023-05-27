@@ -35,7 +35,7 @@ The project demonstrated the importance of creating a secure network infrastruct
 
 <b>pfSense:</b> pfSense is an open-source firewall and router software based on the FreeBSD operating system. It provides advanced networking features and can be deployed as a perimeter firewall, VPN server, or router. pfSense offers a web-based interface for configuration and management, making it user-friendly for network administrators.
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1toC6lu3WK28oH_4My6XiSomY-iDIQRXg)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1Me1-gpPQn0cBasu9ZDxFtQoo4_gFbXMT)
 
 <b>Kali Linux:</b> Kali Linux is a Debian-based Linux distribution specifically designed for penetration testing, digital forensics, and network security assessments. It includes a vast array of pre-installed tools for various security testing purposes, such as vulnerability scanning, password cracking, and network sniffing. Kali Linux is widely used by security professionals and ethical hackers for security testing and assessment.
 
