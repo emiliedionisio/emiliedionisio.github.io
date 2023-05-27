@@ -35,6 +35,30 @@ As a proactive and self-motivated individual, I am highly efficient in providing
     <a href="https://github.com/emiliedionisio"><img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" /></a>
 </p>
 
+<table border="1" cellpadding="0" cellspacing="0" style="width: 500px;">
+	<tbody>
+		<tr>
+			<td><strong>Server and Desktop Environment:</strong> Windows Servers, including Active Directory and Group Policy. Ubuntu Server, Ubuntu Desktop, CentOS Windows 11, 10, 7, and MacOS X</td>
+			<td><strong>Cybersecurity Tools and Applications</strong>: Kali Linux, SIEM (Snort, Suricata, and Splunk), PfSense, and Metasploitable, NMAP, and Wireshark<br />
+			</td>
+		</tr>
+		<tr>
+			<td><strong>Hardware, Networking Apps/Tools, and Protocols:</strong> Cisco Routers, Cisco Switches, Cisco IOS, Cisco Packet Tracer, Canon and HP Laser Printers,&nbsp; Wireshark, Ethernet Cable Wiring (straight-thru, crossover, and rollover), DNS, DHCP, VLAN, TCP/IP, FTP, IMAP, POP3, SMTP,&nbsp; and SSH</td>
+			<td><strong>Cloud Application and Services:</strong> Amazon AWS (Cloud Services, S3 Bucket, Identity and Access Management (IAM), Networking Services (VPC, Subnet, and Routing Table), and Security)</td>
+		</tr>
+		<tr>
+			<td><strong>Virtual Machines, Remote Desktop, and Video Conferencing:</strong> Windows Remote Desktop, TeamViewer, Citrix GoToMyPC, Zoom, Webex, Ultra VNC, VMware Workstation 12/11, VMWare Player, and Oracle Virtual Box.</td>
+			<td><strong>Web, Graphic Applications, Productivity and CMS Tools:</strong> HTML, CSS, WordPress, Squarespace, Wix, Adobe Creative Cloud and Creative Suite, Google Analytics, and Google Trends), Mindmap, Trello, Wrike, Github, and Gitlab<br />
+			</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td><strong>Other: </strong>Microsoft Office Suite and 365, Visio, Google Cloud and Workspace, Bit Defender Total Security, Eset Antivirus, and Slac</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
 
 
 
