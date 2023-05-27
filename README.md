@@ -35,7 +35,8 @@ As a proactive and self-motivated individual, I am highly efficient in providing
 <p align="left">
     <a href="https://github.com/emiliedionisio"><img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" /></a>
 </p>
-<table border="1" cellpadding="0" cellspacing="0" style="width: 600px;">
+
+<table border="1" cellpadding="0" cellspacing="0" style="width: 750px;">
 	<tbody>
 		<tr valign="top">
 		 <td><strong>Server and Desktop Environment:</strong> Windows Servers, including Active Directory and Group Policy. Ubuntu Server, Ubuntu Desktop, CentOS Windows 11, 10, 7, and MacOS X</td>
@@ -118,7 +119,7 @@ Supervised, lead, designed and remodeled a new network topology for the company'
 
 ## 📖 EDUCATION
 
-<table border="1" cellpadding="0" cellspacing="0" style="width: 500px;">
+<table border="1" cellpadding="0" cellspacing="0" style="width: 750px;">
 	<tbody>
 		<tr valign="top">
 			<td><b>Cybersecurity | Expected Graduation - September 2023</b><br />
