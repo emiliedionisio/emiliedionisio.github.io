@@ -65,7 +65,7 @@ As a proactive and self-motivated individual, I am highly efficient in providing
 - Maintain network hardware and software and monitor network to support network availability to end users.
 - Install, configure and repair computer hardware and devices.
 
-### Key Achievements:
+#### Key Achievements:
 Supervised, lead, designed and remodeled a new network topology for the company's Ethernet Wiring Project. Upgraded all network devices such as routers, switches, and created ethernet cables from scratch, and rewired the entire building, which has five floors and two to three rooms on each floor. Collaborated with two contractors and completed the Ethernet Wiring Project.
 
 - Identified malware attack vulnerability in the network due to heavy traffic, intermittent connectivity and unstable remote access to the network due to heavy ICMP requests. Preserved and mitigated data being stolen and protected network by applying patches and updates on the firewall router, antivirus updates, and updated security release patches on the Windows Server 2019.
