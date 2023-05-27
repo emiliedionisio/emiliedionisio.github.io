@@ -8,11 +8,12 @@ The first host machine, with two Ubuntu servers, had Splunk and Suricata install
 
 The second host machine had a cluster of three Ubuntu servers, isolated from the main network and connected through SSH. Kali Linux was installed to act as an attacker for the weak machines within the network. Kali Linux is a penetration testing distribution that can be used to simulate attacks on a network.
 
+<!--
+![alt text](image.jpg)
+-->
 
 
-
-
-![App Screenshot](https://drive.google.com/uc?export=view&id=1ntKZmK5b0zqiIUvZ_DsmM9ewL-LK4OZZ)
+![Phase 1 Topology](https://drive.google.com/uc?export=view&id=1ntKZmK5b0zqiIUvZ_DsmM9ewL-LK4OZZ)
 
 
 
