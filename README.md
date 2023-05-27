@@ -3,11 +3,11 @@
 <p>
   <a href="https://www.linkedin.com/in/emdionisio/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-   </a>  
-    <a href="https://github.com/emiliedionisio">
+   </a>  		
+  <a href="https://github.com/emiliedionisio">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>    
-    <a href="https://f14streetphotog.wixsite.com/fstopmoment">
+  <a href="https://f14streetphotog.wixsite.com/fstopmoment">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
