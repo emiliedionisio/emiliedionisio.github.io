@@ -22,6 +22,12 @@ As a proactive and self-motivated individual, I am highly efficient in providing
 
 ## CERTIFICATIONS
 ### Badges: https://www.credly.com/users/emilie-dionisio-charriez/badges 
+// CCNA: Switching, Routing, and Wireless Essentials
+Certified AWS Cloud Practitioner
+Cisco Certified Entry Networking Technician
+Microsoft MCSA Certified - Windows Server 2016
+CompTIA Network+ 
+CompTIA A+
 
 
 
