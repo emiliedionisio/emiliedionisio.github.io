@@ -31,7 +31,7 @@ The project demonstrated the importance of creating a secure network infrastruct
 
 <b>Suricata:</b> Suricata is an open-source network intrusion detection and prevention system (IDS/IPS). It analyzes network traffic in real-time and can detect various types of network threats, including malware, intrusion attempts, and denial-of-service attacks. Suricata helps organizations monitor and protect their network infrastructure by alerting administrators to potential security breaches.
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1toC6lu3WK28oH_4My6XiSomY-iDIQRXg)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1IUJyR1jh9zC04rBilYQkAszRj8MbbAlU)
 
 <b>pfSense:</b> pfSense is an open-source firewall and router software based on the FreeBSD operating system. It provides advanced networking features and can be deployed as a perimeter firewall, VPN server, or router. pfSense offers a web-based interface for configuration and management, making it user-friendly for network administrators.
 
