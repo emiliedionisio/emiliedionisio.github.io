@@ -27,7 +27,7 @@ VirtualBox: VirtualBox is an open-source virtualization software that allows use
 
 Splunk: Splunk is a software platform used for analyzing and monitoring machine-generated big data. It collects and indexes data from various sources such as logs, events, and metrics, providing real-time insights, troubleshooting capabilities, and security monitoring. Splunk enables organizations to gain operational intelligence and make data-driven decisions.
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1toC6lu3WK28oH_4My6XiSomY-iDIQRXg)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1t7JDYz24XZWkVH2jpp1Bpb4vwQN888Ds)
 
 Suricata: Suricata is an open-source network intrusion detection and prevention system (IDS/IPS). It analyzes network traffic in real-time and can detect various types of network threats, including malware, intrusion attempts, and denial-of-service attacks. Suricata helps organizations monitor and protect their network infrastructure by alerting administrators to potential security breaches.
 
