@@ -8,6 +8,8 @@ The first host machine, with two Ubuntu servers, had Splunk and Suricata install
 
 The second host machine had a cluster of three Ubuntu servers, isolated from the main network and connected through SSH. Kali Linux was installed to act as an attacker for the weak machines within the network. Kali Linux is a penetration testing distribution that can be used to simulate attacks on a network.
 
+![App Screenshot](https://drive.google.com/uc?export=view&id=1ntKZmK5b0zqiIUvZ_DsmM9ewL-LK4OZZ)
+
 The third host machine had a pfSense firewall installed and configured as the main firewall for the network. pfSense is a free and open-source firewall software that can be used to protect a network from unauthorized access.
 
 The fourth host machine was used for testing, with the installation of metasploitable and Windows 7 as weak virtual machines to be exploited. Metasploitable is a vulnerable Linux distribution that can be used to test the effectiveness of security controls. Windows 7 is a popular operating system that is often targeted by attackers.
