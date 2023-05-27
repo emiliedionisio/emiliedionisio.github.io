@@ -37,7 +37,7 @@ As a proactive and self-motivated individual, I am highly efficient in providing
     <a href="https://github.com/emiliedionisio"><img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" /></a>
 </p>
 
-<table border="1" cellpadding="0" cellspacing="0" style="width: 800px;">
+<table border="0" cellpadding="0" cellspacing="0" style="width: 800px;">
 	<tbody>
 		<tr valign="top">
 		 <td><strong>Server and Desktop Environment:</strong> Windows Servers, including Active Directory and Group Policy. Ubuntu Server, Ubuntu Desktop, CentOS Windows 11, 10, 7, and MacOS X</td>
