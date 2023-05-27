@@ -89,6 +89,8 @@ Supervised, lead, designed and remodeled a new network topology for the company'
 - Maintained the entire data dashboard, including pledge / gift input, address updates, query creation, report outputs, and other relevant data records.
 - Analyzed data integrity, made procedural recommendations, updated donor information, and cleaned up data on a monthly basis.
 - Implemented a fast data entry workflow from Revel POS to the Blackbaud eTapestry database system.
+
+
 ---
 
 
