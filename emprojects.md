@@ -21,31 +21,31 @@ The project demonstrated the importance of creating a secure network infrastruct
 
 ### Tools Used: <br />
 
-VirtualBox: VirtualBox is an open-source virtualization software that allows users to create and run virtual machines on their computers. It provides a platform for running multiple operating systems simultaneously, enabling users to test software in different environments or isolate potentially risky applications.
+<b>VirtualBox:</b> VirtualBox is an open-source virtualization software that allows users to create and run virtual machines on their computers. It provides a platform for running multiple operating systems simultaneously, enabling users to test software in different environments or isolate potentially risky applications.
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1toC6lu3WK28oH_4My6XiSomY-iDIQRXg)
 
-Splunk: Splunk is a software platform used for analyzing and monitoring machine-generated big data. It collects and indexes data from various sources such as logs, events, and metrics, providing real-time insights, troubleshooting capabilities, and security monitoring. Splunk enables organizations to gain operational intelligence and make data-driven decisions.
+<b>Splunk:</b> Splunk is a software platform used for analyzing and monitoring machine-generated big data. It collects and indexes data from various sources such as logs, events, and metrics, providing real-time insights, troubleshooting capabilities, and security monitoring. Splunk enables organizations to gain operational intelligence and make data-driven decisions.
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1t7JDYz24XZWkVH2jpp1Bpb4vwQN888Ds)
 
-Suricata: Suricata is an open-source network intrusion detection and prevention system (IDS/IPS). It analyzes network traffic in real-time and can detect various types of network threats, including malware, intrusion attempts, and denial-of-service attacks. Suricata helps organizations monitor and protect their network infrastructure by alerting administrators to potential security breaches.
+<b>Suricata:</b> Suricata is an open-source network intrusion detection and prevention system (IDS/IPS). It analyzes network traffic in real-time and can detect various types of network threats, including malware, intrusion attempts, and denial-of-service attacks. Suricata helps organizations monitor and protect their network infrastructure by alerting administrators to potential security breaches.
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1toC6lu3WK28oH_4My6XiSomY-iDIQRXg)
 
-pfSense: pfSense is an open-source firewall and router software based on the FreeBSD operating system. It provides advanced networking features and can be deployed as a perimeter firewall, VPN server, or router. pfSense offers a web-based interface for configuration and management, making it user-friendly for network administrators.
+<b>pfSense:</b> pfSense is an open-source firewall and router software based on the FreeBSD operating system. It provides advanced networking features and can be deployed as a perimeter firewall, VPN server, or router. pfSense offers a web-based interface for configuration and management, making it user-friendly for network administrators.
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1toC6lu3WK28oH_4My6XiSomY-iDIQRXg)
 
-Kali Linux: Kali Linux is a Debian-based Linux distribution specifically designed for penetration testing, digital forensics, and network security assessments. It includes a vast array of pre-installed tools for various security testing purposes, such as vulnerability scanning, password cracking, and network sniffing. Kali Linux is widely used by security professionals and ethical hackers for security testing and assessment.
+<b>Kali Linux:</b> Kali Linux is a Debian-based Linux distribution specifically designed for penetration testing, digital forensics, and network security assessments. It includes a vast array of pre-installed tools for various security testing purposes, such as vulnerability scanning, password cracking, and network sniffing. Kali Linux is widely used by security professionals and ethical hackers for security testing and assessment.
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1toC6lu3WK28oH_4My6XiSomY-iDIQRXg)
 
-Ubuntu Server: Ubuntu Server is a variant of the Ubuntu operating system specifically designed for server environments. It is a popular choice for hosting web applications, databases, file servers, and other network services. Ubuntu Server provides a stable and secure platform with regular updates and long-term support for enterprise use.
+<b>Ubuntu Server:</b> Ubuntu Server is a variant of the Ubuntu operating system specifically designed for server environments. It is a popular choice for hosting web applications, databases, file servers, and other network services. Ubuntu Server provides a stable and secure platform with regular updates and long-term support for enterprise use.
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1toC6lu3WK28oH_4My6XiSomY-iDIQRXg)
 
-Metasploitable: Metasploitable is a deliberately vulnerable virtual machine created for security testing and penetration testing purposes. It is designed to simulate various vulnerable services, applications, and configurations, allowing security professionals to practice their skills in a safe and controlled environment. Metasploitable helps users learn about common security vulnerabilities and develop strategies to mitigate them.
+<b>Metasploitable:</b> Metasploitable is a deliberately vulnerable virtual machine created for security testing and penetration testing purposes. It is designed to simulate various vulnerable services, applications, and configurations, allowing security professionals to practice their skills in a safe and controlled environment. Metasploitable helps users learn about common security vulnerabilities and develop strategies to mitigate them.
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1toC6lu3WK28oH_4My6XiSomY-iDIQRXg)
 
