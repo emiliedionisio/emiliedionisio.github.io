@@ -120,7 +120,7 @@ Supervised, lead, designed and remodeled a new network topology for the company'
 
 ## 📖 EDUCATION
 
-<table border="1" cellpadding="0" cellspacing="0" style="width: 800px;">
+<table border="0" cellpadding="0" cellspacing="0" style="width: 800px;">
 	<tbody>
 		<tr valign="top">
 			<td><b>Cybersecurity | Expected Graduation - September 2023</b><br />
