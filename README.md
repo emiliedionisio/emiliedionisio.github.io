@@ -31,7 +31,7 @@ As a proactive and self-motivated individual, I am highly efficient in providing
 
 ## 🤯 Technical Skills
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/emiliedionisio"><img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" /></a>
 </p>
 
