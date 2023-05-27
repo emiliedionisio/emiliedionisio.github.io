@@ -78,6 +78,16 @@ Supervised, lead, designed and remodeled a new network topology for the company'
 - Configured hardware, devices and software to set up workstations and laptops for employees.
 - Conducted Windows updates on newly installed machines, added users to the domain, and matched their credentials to be able to install applications relevant to their department.
 - Helped streamline repair processes and update procedures for support action consistency.
+---
+**Boy Scout of America - Database Coordinator**
+<br /> New York, NY 10115 | August 2015 - December 2018
+- Created and deleted user accounts, reset passwords, managed access control, and moved users to different security groups while administering the Blackbaud eTapestry database.
+- Trained end-users on how to create queries and reports in the Blackbaud eTapestry database system. Created a user manual to train new users and temporary employees on how to use the Blackbaud eTapestry database system.
+- Maintained the entire data dashboard, including pledge / gift input, address updates, query creation, report outputs, and other relevant data records.
+- Analyzed data integrity, made procedural recommendations, updated donor information, and cleaned up data on a monthly basis.
+- Implemented a fast data entry workflow from Revel POS to the Blackbaud eTapestry database system.
+---
+
 
 
 
