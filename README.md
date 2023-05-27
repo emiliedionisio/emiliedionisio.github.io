@@ -20,10 +20,19 @@
 <table border="1" cellpadding="0" cellspacing="0" style="width: 800px;">
 <tbody>
 		<tr valign="top">
-			<td><b>Cybersecurity | Expected Graduation - September 2023</b><br />
-			The Knowledge House, Bronx NY 1045</td>
-			<td><b>CCNA Routing &amp; Switching | January - March 2019</b><br />
-			School for Cooperative Technical Education, New York, NY 10029</td>
+			<td><p>
+  <a href="https://www.linkedin.com/in/emdionisio/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+   </a>  		
+  <a href="https://github.com/emiliedionisio">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>    
+  <a href="https://f14streetphotog.wixsite.com/fstopmoment">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p></td>
+			<td><p><img alt="ED" src="https://avatars.githubusercontent.com/u/100741704?s=400&amp;u=4e4ec12f9f20db17af19a69d19f7f8d7794d94de&amp;v=4" style="width: 400px; height: 400px;" /></p>
+<</td>
 		</tr>
 </tbody>	
 </table>
