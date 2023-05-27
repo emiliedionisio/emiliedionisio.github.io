@@ -1,6 +1,5 @@
 # Phase 1 TKH Project
 ## Project Title: Designed and implemented a secure network infrastructure
-
 [Preview full Project Report](https://www.swishnode.com/emilie/projects/emiliedionisio_tkhphase1project.pdf)
 
 ![Phase 1 Topology](https://drive.google.com/uc?export=view&id=1ntKZmK5b0zqiIUvZ_DsmM9ewL-LK4OZZ)
