@@ -130,7 +130,7 @@ Supervised, lead, designed and remodeled a new network topology for the company'
 			School for Cooperative Technical Education, New York, NY 10029</td>
 		</tr>
 		<tr>
-			<td><b>AWS Solutions Architect | June 2023M</b><br />
+			<td><b>AWS Solutions Architect | June 2023</b><br />
 			Queensborough Community College, Queens, NY 11364</td>
 			<td><b>CompTIA Network+ | August -December 2019</b><br />
 			Brooklyn Adult Learning Center, New York, NY 11216</td>
