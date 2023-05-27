@@ -1,4 +1,4 @@
-#Phase 1 TKH Project
+# Phase 1 TKH Project
 CYBERSECURITY PROJECT https://www.swishnode.com/emilie/projects/emiliedionisio_tkhphase1project.pdf)
 - Designed and implemented a network infrastructure consisting of three Windows 10 host machines and one Mac OS X host machine. A virtual box is installed on each host machine. They are all connected to the switch behind the router. They are separated from the main network and use different private IP address pools on their own subnet. This lab demonstrated a secure network infrastructure that incorporated various technologies and techniques to protect against potential threats.
 - The first host machine, with two Ubuntu servers, had Splunk and Suricata installed for monitoring and security purposes. 
