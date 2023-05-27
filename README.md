@@ -56,6 +56,22 @@ As a proactive and self-motivated individual, I am highly efficient in providing
 </table>
 
 ## 💻 EXPERIENCE
+** Self Employed - IT Consultant | Network Administrator at The Neighborhood Playhouse **
+New York, NY 10003 | August 2019 - PRESENT
+- Act as a Network Administrator and in-charge of all end-user technical needs.
+- Administer the Windows Server, including providing network credentials via Active Directory and Group Policy.
+- Provide on-call and remote technical support to all end-users.
+- Manage computer operation scheduling, backup, storage and retrieval functions.
+- Maintain network hardware and software and monitor network to support network availability to end users.
+- Install, configure and repair computer hardware and devices.
+
+### Key Achievements:
+Supervised, lead, designed and remodeled a new network topology for the company's Ethernet Wiring Project. Upgraded all network devices such as routers, switches, and created ethernet cables from scratch, and rewired the entire building, which has five floors and two to three rooms on each floor. Collaborated with two contractors and completed the Ethernet Wiring Project.
+
+- Identified malware attack vulnerability in the network due to heavy traffic, intermittent connectivity and unstable remote access to the network due to heavy ICMP requests. Preserved and mitigated data being stolen and protected network by applying patches and updates on the firewall router, antivirus updates, and updated security release patches on the Windows Server 2019.
+- Installed a second layer of security by adding another router behind the firewall, resulting in double NAT, and segmented the network by creating a VLAN on the Cisco Switch.
+- Implemented cyber security awareness within the company by providing users with common best practices for protecting their computer and data.
+
 
 
 
