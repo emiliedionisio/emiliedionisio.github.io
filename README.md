@@ -3,8 +3,8 @@
 <br />
 ** New York, NY 10003 ** <br />
 📫 edionisio@swishport.com <br />
-📲 +1.646.770.1205 <br />
-<p>
+📲 +1.646.770.1205
+<p><br />
   <a href="https://www.linkedin.com/in/emdionisio/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
    </a>  		
