@@ -59,14 +59,6 @@ As a proactive and self-motivated individual, I am highly efficient in providing
 	</tbody>
 </table>
 
-## 📋 PROJECTS
-
-
-
-
-
-
-
 ## 💻 EXPERIENCE
 **Self Employed - IT Consultant | Network Administrator at The Neighborhood Playhouse**
 <br /> New York, NY 10003 | August 2019 - PRESENT
