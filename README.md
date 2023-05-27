@@ -6,7 +6,7 @@
 
 
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/emdionisio/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>  
