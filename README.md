@@ -34,7 +34,6 @@ As a proactive and self-motivated individual, I am highly efficient in providing
 <p align="left">
     <a href="https://github.com/emiliedionisio"><img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" /></a>
 </p>
-
 <table border="1" cellpadding="0" cellspacing="0" style="width: 600px;">
 	<tbody>
 		<tr>
@@ -55,12 +54,6 @@ As a proactive and self-motivated individual, I am highly efficient in providing
 		</tr>
 	</tbody>
 </table>
-
-
-<p>&nbsp;</p>
-
-
-
 
 
 👩‍💻 I'm currently working on...
