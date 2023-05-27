@@ -52,7 +52,6 @@ The project demonstrated the importance of creating a secure network infrastruct
 Windows 7
 iMac
 
-
 ### Project Accomplishments: <br />
 - Designed and implemented a secure network infrastructure that incorporated various technologies and techniques to protect against potential threats.
 - Successfully tested the effectiveness of security controls by using metasploitable and Windows 7 as weak virtual machines to be exploited.
