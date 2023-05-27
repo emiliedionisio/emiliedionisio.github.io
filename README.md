@@ -1,11 +1,5 @@
 
 📫 You can reach me at: edionisio@swishport.com
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdionisio/)
-[](https://github.com/emiliedionisio) 
-
-
-
 <p>
   <a href="https://www.linkedin.com/in/emdionisio/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
