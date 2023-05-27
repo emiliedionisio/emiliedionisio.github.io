@@ -34,6 +34,7 @@ The project demonstrated the importance of creating a secure network infrastruct
 <b>Suricata:</b> Suricata is an open-source network intrusion detection and prevention system (IDS/IPS). It analyzes network traffic in real-time and can detect various types of network threats, including malware, intrusion attempts, and denial-of-service attacks. Suricata helps organizations monitor and protect their network infrastructure by alerting administrators to potential security breaches.
 
 
+
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1IUJyR1jh9zC04rBilYQkAszRj8MbbAlU)
 
 
