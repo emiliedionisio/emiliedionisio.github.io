@@ -55,6 +55,9 @@ As a proactive and self-motivated individual, I am highly efficient in providing
 	</tbody>
 </table>
 
+## 💻 EXPERIENCE
+
+
 
 👩‍💻 I'm currently working on...
 
