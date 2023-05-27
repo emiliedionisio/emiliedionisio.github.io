@@ -1,4 +1,6 @@
 # EMILIE DIONISIO 
+
+
 **New York, NY 10003** <br />
 📫 edionisio@swishport.com <br />
 📲 +1.646.770.1205
@@ -13,6 +15,9 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
+
+| Header | Title |
+| Paragraph | Text |
 
 ## SUMMARY
 With over 7+ years of experience in Technical and Desktop Support and 3 years of Network Administration experience for small businesses, I possess strong skills in computer hardware and software installation, repair, and maintenance. I excel at identifying and resolving complex technical issues and implementing effective security measures to troubleshoot vulnerabilities. 
