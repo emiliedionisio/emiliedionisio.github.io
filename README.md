@@ -114,6 +114,49 @@ Supervised, lead, designed and remodeled a new network topology for the company'
 
 ---
 
+## 📖 EDUCATION
+
+<table border="1" cellpadding="0" cellspacing="0" style="width: 500px;">
+	<tbody>
+		<tr valign="top">
+			<td>Cybersecurity | Expected Graduation - September 2023<br />
+			The Knowledge House, Bronx NY 1045</td>
+			<td>CCNA Routing &amp; Switching | January - March 2019<br />
+			School for Cooperative Technical Education, New York, NY 10029</td>
+		</tr>
+		<tr>
+			<td>AWS Solutions Architect |&nbsp; June 2023<br />
+			Queensborough Community College, Queens, NY 11364</td>
+			<td>CompTIA Network+ | August -December 2019<br />
+			Brooklyn Adult Learning Center, New York, NY 11216</td>
+		</tr>
+		<tr>
+			<td>Junior Cloud Practitioner | January - March 2022<br />
+			Generation.org</td>
+			<td>Windows Server 2012 Administration | January - March 2017<br />
+			New York Business Institute of Technology, New York, NY</td>
+		</tr>
+		<tr>
+			<td>MCSA: Windows Server 2016 Administration | April - July 2018<br />
+			New York Business Institute of Technology, New York, NY 10016</td>
+			<td>CompTIA A+ Information Technology | 2016<br />
+			CoopTech &ndash; Adult Education, New York, NY 10029</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 👩‍💻 I'm currently working on...
