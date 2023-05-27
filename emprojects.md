@@ -20,15 +20,21 @@ The fourth host machine was used for testing, with the installation of metasploi
 The project demonstrated the importance of creating a secure network infrastructure and the various tools and techniques available to achieve that. The project also demonstrated the importance of using a variety of security controls to protect a network from unauthorized access.
 
 ### Tools Used:
-- Virtual Box
+
+
+
+VirtualBox: VirtualBox is an open-source virtualization software that allows users to create and run virtual machines on their computers. It provides a platform for running multiple operating systems simultaneously, enabling users to test software in different environments or isolate potentially risky applications.
+
+
 - Splunk
 - Suricata
 - pfSense
 - Kali Linux
 - Ubuntu Server
+- Metasploitable
 - Windows 7
 - iMac
-- Metasploitable
+
 
 ### Project Accomplishments: <br />
 - Designed and implemented a secure network infrastructure that incorporated various technologies and techniques to protect against potential threats.
