@@ -1,5 +1,4 @@
 # EMILIE DIONISIO
-
 📫 You can reach me at: edionisio@swishport.com
 <p>
   <a href="https://www.linkedin.com/in/emdionisio/">
