@@ -93,6 +93,18 @@ Supervised, lead, designed and remodeled a new network topology for the company'
 
 ---
 
+**The Lee Strasberg Theater and Film Institute - Network Administrator and Desktop Support**
+<br /> New York, NY 10003 | February 2012 - November 2014
+- Provided IT support and resolved a diverse range of technical issues across multiple platforms and applications to 25 internal end-users and remote users.
+- Managed and maintained end-user account profiles, file sharing, credentials, and password resetting on Active Directory.
+- Maintained network hardware and software and monitored network to support network availability to end-users.
+- Identified and immediately resolved issues with network devices.
+- Managed computer operation scheduling, backup, storage and retrieval functions.
+- Managed the SEO roadmap and worked with internal teams to improve SEO rankings through the use of Google Analytics, Google Search Console, Google Trends, linking strategies, metadata optimization, and internal process improvement.
+
+---
+
+
 
 
 
