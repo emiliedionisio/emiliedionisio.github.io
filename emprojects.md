@@ -54,7 +54,7 @@ The project demonstrated the importance of creating a secure network infrastruct
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1BlCNTFsbmo_Z5wPEAVQPJm_zCKQZjAvC)
 
-Windows 7
+Windows 7 <br />
 iMac
 
 ### Project Accomplishments: <br />
