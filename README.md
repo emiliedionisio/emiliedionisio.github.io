@@ -16,7 +16,20 @@
   </a>
 </p>
 
-| Header | Title |
+| **New York, NY 10003** <br />
+📫 edionisio@swishport.com <br />
+📲 +1.646.770.1205
+<p>
+  <a href="https://www.linkedin.com/in/emdionisio/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+   </a>  		
+  <a href="https://github.com/emiliedionisio">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>    
+  <a href="https://f14streetphotog.wixsite.com/fstopmoment">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>| Title |
 | ----------- | ----------- |
 | Paragraph | Text |
 
