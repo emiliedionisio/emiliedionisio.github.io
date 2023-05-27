@@ -3,6 +3,10 @@
 <p>
   <a href="https://www.linkedin.com/in/emdionisio/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+   </a>  
+    <a href="https://f14streetphotog.wixsite.com/fstopmoment">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>   
   </a>  
     <a href="https://f14streetphotog.wixsite.com/fstopmoment">
     <img src="https://skillicons.dev/icons?i=instagram" />
