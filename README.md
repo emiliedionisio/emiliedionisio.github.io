@@ -15,40 +15,21 @@
   </a>
 </p>
 
----
-**New York, NY 10003** <br />
-📫 edionisio@swishport.com <br />
-📲 +1.646.770.1205
-<p>
-  <a href="https://www.linkedin.com/in/emdionisio/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-   </a>   
-  <a href="https://github.com/emiliedionisio">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>    
-  <a href="https://f14streetphotog.wixsite.com/fstopmoment">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</p>
-**New York, NY 10003** <br />
-📫 edionisio@swishport.com <br />
-📲 +1.646.770.1205
-<p>
-  <a href="https://www.linkedin.com/in/emdionisio/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-   </a>   
-  <a href="https://github.com/emiliedionisio">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>    
-  <a href="https://f14streetphotog.wixsite.com/fstopmoment">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</p>
+
+----
+<table border="1" cellpadding="0" cellspacing="0" style="width: 800px;">
+<tbody>
+		<tr valign="top">
+			<td><b>Cybersecurity | Expected Graduation - September 2023</b><br />
+			The Knowledge House, Bronx NY 1045</td>
+			<td><b>CCNA Routing &amp; Switching | January - March 2019</b><br />
+			School for Cooperative Technical Education, New York, NY 10029</td>
+		</tr>
+</tbody>	
+</table>
 
 
----
-
-
+----
 
 
 
