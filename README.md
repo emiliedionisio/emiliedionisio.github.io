@@ -72,6 +72,12 @@ Supervised, lead, designed and remodeled a new network topology for the company'
 - Installed a second layer of security by adding another router behind the firewall, resulting in double NAT, and segmented the network by creating a VLAN on the Cisco Switch.
 - Implemented cyber security awareness within the company by providing users with common best practices for protecting their computer and data.
 ---
+**Genuent (Client: CBS Sports & Simon and Schuster) - Windows Deployment Technician**
+<br /> New York, NY 10020 | June - August 2019
+- Performed data backup from old hard drives, reformatted, and deployed a new batch of Windows 10 OS machines.
+- Configured hardware, devices and software to set up workstations and laptops for employees.
+- Conducted Windows updates on newly installed machines, added users to the domain, and matched their credentials to be able to install applications relevant to their department.
+- Helped streamline repair processes and update procedures for support action consistency.
 
 
 
