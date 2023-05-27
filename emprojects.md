@@ -21,7 +21,16 @@ The fourth host machine was used for testing, with the installation of metasploi
 
 The project demonstrated the importance of creating a secure network infrastructure and the various tools and techniques available to achieve that. The project also demonstrated the importance of using a variety of security controls to protect a network from unauthorized access.
 
-
+### Tools Used:
+- Virtual Box
+- Splunk
+- Suricata
+- pfSense
+- Kali Linux
+- Ubuntu Server
+- Windows 7
+- iMac
+- Metasploitable
 
 
 CYBERSECURITY PROJECT https://www.swishnode.com/emilie/projects/emiliedionisio_tkhphase1project.pdf)
