@@ -104,7 +104,15 @@ Supervised, lead, designed and remodeled a new network topology for the company'
 
 ---
 
+**Everett Collection - IT Support | Web Production**
+<br />Newark, NJ 07102 | April 2007 - December 2011
+- Assisted the System Administrator with system-wide migration as well as operating system and application deployment.
+- Assisted the VP of Technology with the technician hiring process, created job descriptions, designed and developed hands-on labs, and tested applicants.
+- Provided technical support to 30 internal end-users on Windows and Mac operating systems.
+- Installed, repaired, and maintained computer hardware and software, as well as printing and network issues.
+- Designed and developed multiple website properties within an organization using HTML and CSS.
 
+---
 
 
 
