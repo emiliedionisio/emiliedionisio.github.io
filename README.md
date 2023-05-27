@@ -1,5 +1,5 @@
 # EMILIE DIONISIO 
-**New York, NY 10003** 
+#### New York, NY 10003
 ### [Projects](/emprojects.md) | Research | CCNA Journey
 📫 edionisio@swishport.com <br />
 📲 +1.646.770.1205
