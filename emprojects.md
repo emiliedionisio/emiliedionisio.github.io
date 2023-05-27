@@ -25,15 +25,32 @@ VirtualBox: VirtualBox is an open-source virtualization software that allows use
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1toC6lu3WK28oH_4My6XiSomY-iDIQRXg)
 
+Splunk: Splunk is a software platform used for analyzing and monitoring machine-generated big data. It collects and indexes data from various sources such as logs, events, and metrics, providing real-time insights, troubleshooting capabilities, and security monitoring. Splunk enables organizations to gain operational intelligence and make data-driven decisions.
 
-- Splunk
-- Suricata
-- pfSense
-- Kali Linux
-- Ubuntu Server
-- Metasploitable
-- Windows 7
-- iMac
+![App Screenshot](https://drive.google.com/uc?export=view&id=1toC6lu3WK28oH_4My6XiSomY-iDIQRXg)
+
+Suricata: Suricata is an open-source network intrusion detection and prevention system (IDS/IPS). It analyzes network traffic in real-time and can detect various types of network threats, including malware, intrusion attempts, and denial-of-service attacks. Suricata helps organizations monitor and protect their network infrastructure by alerting administrators to potential security breaches.
+
+![App Screenshot](https://drive.google.com/uc?export=view&id=1toC6lu3WK28oH_4My6XiSomY-iDIQRXg)
+
+pfSense: pfSense is an open-source firewall and router software based on the FreeBSD operating system. It provides advanced networking features and can be deployed as a perimeter firewall, VPN server, or router. pfSense offers a web-based interface for configuration and management, making it user-friendly for network administrators.
+
+![App Screenshot](https://drive.google.com/uc?export=view&id=1toC6lu3WK28oH_4My6XiSomY-iDIQRXg)
+
+Kali Linux: Kali Linux is a Debian-based Linux distribution specifically designed for penetration testing, digital forensics, and network security assessments. It includes a vast array of pre-installed tools for various security testing purposes, such as vulnerability scanning, password cracking, and network sniffing. Kali Linux is widely used by security professionals and ethical hackers for security testing and assessment.
+
+![App Screenshot](https://drive.google.com/uc?export=view&id=1toC6lu3WK28oH_4My6XiSomY-iDIQRXg)
+
+Ubuntu Server: Ubuntu Server is a variant of the Ubuntu operating system specifically designed for server environments. It is a popular choice for hosting web applications, databases, file servers, and other network services. Ubuntu Server provides a stable and secure platform with regular updates and long-term support for enterprise use.
+
+![App Screenshot](https://drive.google.com/uc?export=view&id=1toC6lu3WK28oH_4My6XiSomY-iDIQRXg)
+
+Metasploitable: Metasploitable is a deliberately vulnerable virtual machine created for security testing and penetration testing purposes. It is designed to simulate various vulnerable services, applications, and configurations, allowing security professionals to practice their skills in a safe and controlled environment. Metasploitable helps users learn about common security vulnerabilities and develop strategies to mitigate them.
+
+![App Screenshot](https://drive.google.com/uc?export=view&id=1toC6lu3WK28oH_4My6XiSomY-iDIQRXg)
+
+Windows 7
+iMac
 
 
 ### Project Accomplishments: <br />
