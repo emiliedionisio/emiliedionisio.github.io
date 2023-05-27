@@ -52,7 +52,7 @@ The project demonstrated the importance of creating a secure network infrastruct
 
 <b>Metasploitable:</b> Metasploitable is a deliberately vulnerable virtual machine created for security testing and penetration testing purposes. It is designed to simulate various vulnerable services, applications, and configurations, allowing security professionals to practice their skills in a safe and controlled environment. Metasploitable helps users learn about common security vulnerabilities and develop strategies to mitigate them.
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1toC6lu3WK28oH_4My6XiSomY-iDIQRXg)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1BlCNTFsbmo_Z5wPEAVQPJm_zCKQZjAvC)
 
 Windows 7
 iMac
