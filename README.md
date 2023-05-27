@@ -17,6 +17,7 @@
 </p>
 
 | Header | Title |
+| ----------- | ----------- |
 | Paragraph | Text |
 
 ## SUMMARY
