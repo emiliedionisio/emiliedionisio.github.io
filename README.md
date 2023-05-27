@@ -38,7 +38,7 @@ As a proactive and self-motivated individual, I am highly efficient in providing
 <table border="1" cellpadding="0" cellspacing="0" style="width: 500px;">
 	<tbody>
 		<tr>
-			<td><strong>**Server and Desktop Environment:**</strong> Windows Servers, including Active Directory and Group Policy. Ubuntu Server, Ubuntu Desktop, CentOS Windows 11, 10, 7, and MacOS X</td>
+			<td><strong>** Server and Desktop Environment: **</strong> Windows Servers, including Active Directory and Group Policy. Ubuntu Server, Ubuntu Desktop, CentOS Windows 11, 10, 7, and MacOS X</td>
 			<td><strong>Cloud Application and Services:</strong>&nbsp;Amazon AWS (Cloud Services, S3 Bucket, Identity and Access Management (IAM), Networking Services (VPC, Subnet, and Routing Table), and Security)</td>
 		</tr>
 		<tr>
