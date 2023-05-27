@@ -44,7 +44,7 @@ The project demonstrated the importance of creating a secure network infrastruct
 
 <b>Kali Linux:</b> Kali Linux is a Debian-based Linux distribution specifically designed for penetration testing, digital forensics, and network security assessments. It includes a vast array of pre-installed tools for various security testing purposes, such as vulnerability scanning, password cracking, and network sniffing. Kali Linux is widely used by security professionals and ethical hackers for security testing and assessment.
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1toC6lu3WK28oH_4My6XiSomY-iDIQRXg)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1M-tMrS7U1CgbXjshRVpnpjYnX2a00k8A)
 
 <b>Ubuntu Server:</b> Ubuntu Server is a variant of the Ubuntu operating system specifically designed for server environments. It is a popular choice for hosting web applications, databases, file servers, and other network services. Ubuntu Server provides a stable and secure platform with regular updates and long-term support for enterprise use.
 
