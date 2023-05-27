@@ -15,33 +15,6 @@
   </a>
 </p>
 
-
-----
-<table border="0" cellpadding="0" cellspacing="0" style="width: 800px;">
-<tbody>
-		<tr valign="top">
-			<td><p>
-  <a href="https://www.linkedin.com/in/emdionisio/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-   </a>  		
-  <a href="https://github.com/emiliedionisio">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>    
-  <a href="https://f14streetphotog.wixsite.com/fstopmoment">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</p></td>
-			<td><p><img alt="ED" src="https://avatars.githubusercontent.com/u/100741704?s=400&amp;u=4e4ec12f9f20db17af19a69d19f7f8d7794d94de&amp;v=4" style="width: 400px; height: 400px;" /></p>
-<</td>
-		</tr>
-</tbody>	
-</table>
-
-
-----
-
-
-
 ## SUMMARY
 With over 7+ years of experience in Technical and Desktop Support and 3 years of Network Administration experience for small businesses, I possess strong skills in computer hardware and software installation, repair, and maintenance. I excel at identifying and resolving complex technical issues and implementing effective security measures to troubleshoot vulnerabilities. 
 
