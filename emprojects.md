@@ -1,7 +1,7 @@
 # Phase 1 TKH Project
 ## Project Title: Designed and implemented a secure network infrastructure
 
-[Project Report](https://www.swishnode.com/emilie/projects/emiliedionisio_tkhphase1project.pdf)
+[Preview full Project Report](https://www.swishnode.com/emilie/projects/emiliedionisio_tkhphase1project.pdf)
 
 ### Project Description: <br />
 I designed and implemented a secure network infrastructure consisting of three Windows 10 host machines and one Mac OS X host machine. A virtual box was installed on each host machine. They were all connected to the switch behind the router. They were separated from the main network and used different private IP address pools on their own subnet. This lab demonstrated a secure network infrastructure that incorporated various technologies and techniques to protect against potential threats.
