@@ -17,7 +17,7 @@
 
 
 ----
-<table border="1" cellpadding="0" cellspacing="0" style="width: 800px;">
+<table border="0" cellpadding="0" cellspacing="0" style="width: 800px;">
 <tbody>
 		<tr valign="top">
 			<td><p>
