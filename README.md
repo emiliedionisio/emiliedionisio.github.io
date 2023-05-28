@@ -17,11 +17,15 @@
 <br />
 
 ## SUMMARY
-With over 7+ years of experience in Technical and Desktop Support and 3 years of Network Administration experience for small businesses, I possess strong skills in computer hardware and software installation, repair, and maintenance. I excel at identifying and resolving complex technical issues and implementing effective security measures to troubleshoot vulnerabilities. 
+I have been actively expanding my knowledge and skills in Cybersecurity and AWS Cloud Computing through immersive hands-on experience. With over 400 hours of technical instruction in cybersecurity, I have gained comprehensive expertise in designing secure network infrastructures within virtual environments using VirtualBox.
 
-Currently, I am expanding my knowledge and skills in Cybersecurity and AWS Cloud Computing. Through extensive lab practice and 400+ hours of technical instruction in cybersecurity, I have gained expertise in building VPC and subnets with EC2, routing tables, security groups, and creating a LAMP stack with WordPress in AWS, and more. In addition, I collaborated with a team to design and implement a secure virtual environment to demonstrate our expertise in cybersecurity and AWS cloud infrastructure. We created a comprehensive security lab on a local machine by installing Linux servers with security tools and successfully replicated the entire environment in AWS, ensuring secure deployment in the cloud.
+In my practical work, I successfully configured a standalone pfSense firewall, implemented Suricata to analyze network traffic, and utilized Splunk for effective log monitoring and analysis, enabling the identification of any unusual activities within the network.
 
-As a proactive and self-motivated individual, I am highly efficient in providing exceptional customer service. I possess a natural ability to quickly learn new skills and find innovative solutions to complex problems. With a strong commitment to professional development, I continuously strive to enhance my skills and knowledge, delivering effective solutions to any challenge that may arise.
+My journey has also led me to develop proficiency in AWS Cloud Computing, specifically in VPC and subnets, EC2 instances, routing tables, security groups, and the creation of LAMP stacks with WordPress in the AWS environment.
+
+Collaboration has played a pivotal role in my growth. Together with a talented team, we designed and implemented a secure virtual environment, showcasing our collective expertise in both cybersecurity and AWS cloud infrastructure. This involved setting up a comprehensive security lab on a local machine, complete with Linux servers equipped with advanced security tools. Furthermore, we successfully replicated the entire environment in AWS, ensuring a secure deployment in the cloud.
+
+Through these experiences, I have honed my skills and developed a strong foundation in Cybersecurity and AWS Cloud Computing. I am excited to leverage this expertise to contribute to meaningful projects, enhance security measures, and drive successful deployments in the cloud.
 
 ## CERTIFICATIONS
 ### Click here to see: [Badges and Certs](https://www.credly.com/users/emilie-dionisio-charriez/badges)
