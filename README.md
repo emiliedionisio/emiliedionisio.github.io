@@ -1,7 +1,21 @@
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&pause=1000&color=3FF799&width=435&lines=Hello+there%2C++I'm+Emilie!+Welcome+to+my+page!;I'm+a+self+taught+gal.+Always+learning+new+things.;I+have+a+knack+for+Network+Security+and+a+cup+of+joe.;With+10+years+of+experience++as+a+Technical+Support.;Help%2C+Teach%2C+and+Learn+are+always+my+mantra.)](https://git.io/typing-svg) -->
 
-
+#### [PROJECTS](/emprojects.md) | RESEARCH | LEARNING | DOWNLOAD RESUME <br />
+📫 edionisio@swishport.com <br />
+📲 +1.646.770.1205
+<p>
+  <a href="https://www.linkedin.com/in/emdionisio/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+   </a>  		
+  <a href="https://github.com/emiliedionisio">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>    
+  <a href="https://f14streetphotog.wixsite.com/fstopmoment">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+<br />
 
 
 
