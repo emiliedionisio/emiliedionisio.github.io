@@ -23,7 +23,11 @@ I have been actively expanding my knowledge and skills in Cybersecurity and AWS 
 
 My journey has also led me to develop proficiency in AWS Cloud Computing, specifically in VPC and subnets, EC2 instances, routing tables, security groups, and the creation of LAMP stacks with WordPress in the AWS environment. Collaboration has played a pivotal role in my growth. Together with a talented team, we designed and implemented a secure virtual environment, showcasing our collective expertise in both cybersecurity and AWS cloud infrastructure. This involved setting up a comprehensive security lab on a local machine, complete with Linux servers equipped with advanced security tools. Furthermore, we successfully replicated the entire environment in AWS, ensuring a secure deployment in the cloud.
 
-Through these experiences, I have honed my skills and developed a strong foundation in Cybersecurity and AWS Cloud Computing. I am excited to leverage this expertise to contribute to meaningful projects, enhance security measures, and drive successful deployments in the cloud.
+Continuous professional development is a priority for me, as I actively pursue opportunities to enhance my skills and expand my knowledge. This dedication ensures that I can deliver effective solutions in dynamic and evolving environments. Furthermore, I find immense satisfaction in teaching and empowering end-users, guiding them through the intricacies of various tools and technologies. Witnessing their growth and confidence is truly rewarding.
+
+Collaboration is a natural fit for me, as I enjoy actively participating in brainstorming sessions. By tapping into the collective insights of the team, we can generate innovative ideas and achieve successful outcomes. I am deeply committed to my personal and professional growth and am excited about the potential contributions I can make to the success of both my team and the organization.
+
+Combining my strong background in Networking with my growing proficiency in Cybersecurity and AWS Cloud Computing, I am enthusiastic about the possibilities that lie ahead. I am eager to embark on new challenges, broaden my skill set, and make a positive impact in the ever-evolving world of technology.
 
 ## CERTIFICATIONS
 ### Click here to see: [Badges and Certs](https://www.credly.com/users/emilie-dionisio-charriez/badges)
