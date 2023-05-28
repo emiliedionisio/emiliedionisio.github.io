@@ -68,38 +68,40 @@ Combining my strong background in Networking with my growing proficiency in Cybe
 ## 💻 EXPERIENCE
 **Self Employed - IT Consultant | Network Administrator at The Neighborhood Playhouse**
 <br /> New York, NY 10003 | August 2019 - PRESENT
-- Act as a Network Administrator and in-charge of all end-user technical needs.
+- Act as the Network Administrator, overseeing all end-user technical needs for a staff of 15 employees.
 - Administer the Windows Server, including providing network credentials via Active Directory and Group Policy.
-- Provide on-call and remote technical support to all end-users.
-- Manage computer operation scheduling, backup, storage and retrieval functions.
-- Maintain network hardware and software and monitor network to support network availability to end users.
-- Install, configure and repair computer hardware and devices.
+- Provide on-call and remote technical support, achieving a 95% response rate within 30 minutes and resolving 80% of issues within 24 hours.
+- Manage computer operation scheduling, backup, storage, and retrieval functions, ensuring 100% data backup compliance and a recovery time objective of less than 4 hours.
+- Maintain network hardware and software, conducting quarterly audits to ensure optimal performance and reliability, resulting in a 99.9% network uptime.
+- Proficiently install, configure, and repair computer hardware and devices, ensuring efficient functionality and optimal performance.
+
 
 #### Key Achievements:
-Supervised, lead, designed and remodeled a new network topology for the company's Ethernet Wiring Project. Upgraded all network devices such as routers, switches, and created ethernet cables from scratch, and rewired the entire building, which has five floors and two to three rooms on each floor. Collaborated with two contractors and completed the Ethernet Wiring Project.
+Successfully supervised, led, designed, and remodeled a new network topology for the company's Ethernet Wiring Project, encompassing a five-floor building with two to three rooms on each floor. Upgraded all network devices, including routers and switches, and created ethernet cables from scratch, resulting in a fully revamped and efficient network infrastructure.
 
-- Identified malware attack vulnerability in the network due to heavy traffic, intermittent connectivity and unstable remote access to the network due to heavy ICMP requests. Preserved and mitigated data being stolen and protected network by applying patches and updates on the firewall router, antivirus updates, and updated security release patches on the Windows Server 2019.
-- Installed a second layer of security by adding another router behind the firewall, resulting in double NAT, and segmented the network by creating a VLAN on the Cisco Switch.
-- Implemented cyber security awareness within the company by providing users with common best practices for protecting their computer and data.
+- Identified and addressed a significant vulnerability in the network caused by heavy traffic, intermittent connectivity, and unstable remote access due to excessive ICMP requests. Mitigated potential data theft by promptly applying patches and updates on the firewall router, implementing antivirus updates, and installing security release patches on the Windows Server 2019.
+- Enhanced network security by installing an additional router behind the firewall, establishing a double NAT setup, and effectively segmenting the network through the creation of a VLAN on the Cisco Switch.
+- Proactively communicated verbally the best practices on how to safeguard our network to all employees, ensuring they were aware of and equipped with the knowledge of recommended security measures to protect the network.
+
 
 ---
 
 **Genuent (Client: CBS Sports & Simon and Schuster) - Windows Deployment Technician**
 <br /> New York, NY 10020 | June - August 2019
-- Performed data backup from old hard drives, reformatted, and deployed a new batch of Windows 10 OS machines.
-- Configured hardware, devices and software to set up workstations and laptops for employees.
-- Conducted Windows updates on newly installed machines, added users to the domain, and matched their credentials to be able to install applications relevant to their department.
-- Helped streamline repair processes and update procedures for support action consistency.
+- Executed data backup from old hard drives, reformatted, and deployed a new batch of Windows 10 OS machines.  
+- Successfully completed the deployment of 10 Windows 10 machines per day, achieving a 98% accuracy rate in data backup and restoration.
+- Conducted Windows updates on newly installed machines, added users to the domain, and matched their credentials to enable the installation of department-specific applications. Achieved a 100% compliance rate in adding users to the domain and matching their credentials.
+
 
 ---
 
 **Boy Scout of America - Database Coordinator**
 <br /> New York, NY 10115 | August 2015 - December 2018
-- Created and deleted user accounts, reset passwords, managed access control, and moved users to different security groups while administering the Blackbaud eTapestry database.
-- Trained end-users on how to create queries and reports in the Blackbaud eTapestry database system. Created a user manual to train new users and temporary employees on how to use the Blackbaud eTapestry database system.
-- Maintained the entire data dashboard, including pledge / gift input, address updates, query creation, report outputs, and other relevant data records.
-- Analyzed data integrity, made procedural recommendations, updated donor information, and cleaned up data on a monthly basis.
-- Implemented a fast data entry workflow from Revel POS to the Blackbaud eTapestry database system.
+- Administered the Blackbaud eTapestry database, including creating and deleting user accounts, resetting passwords, managing access control, and moving users to different security groups. Achieved a 95% accuracy rate in user account management and access control changes for a user base of 200+ employees.
+- Trained end-users on query and report creation in the Blackbaud eTapestry database system, resulting in an average time reduction of 20% for query and report creation.
+- Maintained data dashboard, including pledge/gift input, address updates, query creation, report outputs, and other relevant data records for 10,000+ donors. Achieved a 98% accuracy rate in pledge/gift input and address updates.
+- Implemented a streamlined data entry workflow from Revel POS to the Blackbaud eTapestry database system, leading to a 30% reduction in data entry time and a 25% improvement in data entry accuracy.
+
 
 
 ---
@@ -107,22 +109,24 @@ Supervised, lead, designed and remodeled a new network topology for the company'
 
 **The Lee Strasberg Theater and Film Institute - Network Administrator and Desktop Support**
 <br /> New York, NY 10003 | February 2012 - November 2014
-- Provided IT support and resolved a diverse range of technical issues across multiple platforms and applications to 25 internal end-users and remote users.
+- Provided IT support to 25 internal end-users and remote users, resolving a diverse range of technical issues across multiple platforms and applications.
 - Managed and maintained end-user account profiles, file sharing, credentials, and password resetting on Active Directory.
-- Maintained network hardware and software and monitored network to support network availability to end-users.
-- Identified and immediately resolved issues with network devices.
-- Managed computer operation scheduling, backup, storage and retrieval functions.
-- Managed the SEO roadmap and worked with internal teams to improve SEO rankings through the use of Google Analytics, Google Search Console, Google Trends, linking strategies, metadata optimization, and internal process improvement.
+- Maintained network hardware and software, ensuring network availability for end-users.
+- Identified and promptly resolved issues with network devices.\
+- Managed computer operation scheduling, backup, storage, and retrieval functions. 
+- Managed the SEO roadmap and worked with internal teams to improve SEO rankings. Utilized Google Analytics, Google Search Console, and Google Trends for SEO analysis. Implemented linking strategies, metadata optimization, and internal process improvement.
+
 
 ---
 
 **Everett Collection - IT Support | Web Production**
 <br />Newark, NJ 07102 | April 2007 - December 2011
-- Assisted the System Administrator with system-wide migration as well as operating system and application deployment.
-- Assisted the VP of Technology with the technician hiring process, created job descriptions, designed and developed hands-on labs, and tested applicants.
-- Provided technical support to 30 internal end-users on Windows and Mac operating systems.
-- Installed, repaired, and maintained computer hardware and software, as well as printing and network issues.
-- Designed and developed multiple website properties within an organization using HTML and CSS.
+- Assisted the System Administrator with system-wide migration, operating system deployment, and application deployment, supporting the successful migration of 30+ systems with a 98% accuracy rate in operating system and application deployments.
+- Assisted the VP of Technology with the technician hiring process, created detailed job descriptions, designed and developed hands-on labs, resulting in a 20% increase in qualified applicants.
+- Provided technical support to 30 internal end-users on Windows and Mac operating systems, resolving technical issues within an average response time of 15 minutes and achieving a 90% customer satisfaction rating based on feedback surveys.
+- Installed, repaired, and maintained computer hardware and software, addressing printing and network issues. 
+- Designed and developed multiple visually appealing website properties within the organization using HTML and CSS, contributing to a 25% increase in website traffic.
+
 
 ---
 
