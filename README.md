@@ -4,7 +4,8 @@
 
 
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1V4B55629HHkWc7vih0xOSoozUgCKsbm2)
+
+![Main Landing Photo](ttps://drive.google.com/uc?export=view&id=1V4B55629HHkWc7vih0xOSoozUgCKsbm2)
 
 
 
