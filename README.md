@@ -19,7 +19,7 @@
 ## SUMMARY
 I have been actively expanding my knowledge and skills in Cybersecurity and AWS Cloud Computing through immersive hands-on experience. With over 400 hours of technical instruction in cybersecurity, I have gained comprehensive expertise in designing secure network infrastructures within virtual environments using VirtualBox.
 
-In my practical work, I successfully configured a standalone pfSense firewall, implemented Suricata to analyze network traffic, and utilized Splunk for effective log monitoring and analysis, enabling the identification of any unusual activities within the network.
+In Phase 1 of our cohort, I successfully configured a standalone pfSense firewall, implemented Suricata to analyze network traffic, and utilized Splunk for effective log monitoring and analysis, enabling the identification of any unusual activities within the network.
 
 My journey has also led me to develop proficiency in AWS Cloud Computing, specifically in VPC and subnets, EC2 instances, routing tables, security groups, and the creation of LAMP stacks with WordPress in the AWS environment.
 
