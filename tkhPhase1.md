@@ -3,9 +3,8 @@
 [Preview Full Project Report](https://www.swishnode.com/emilie/projects/emiliedionisio_tkhphase1project.pdf)
 
 
-| ![Phase 1 Project](https://drive.google.com/uc?export=view&id=1ntKZmK5b0zqiIUvZ_DsmM9ewL-LK4OZZ](https://www.swishnode.com/emilie/projects/emiliedionisio_tkhphase1project.pdf) | 
-| --------------------------- |
-
+| [![Penetration Testing](https://drive.google.com/uc?export=view&id=1ntKZmK5b0zqiIUvZ_DsmM9ewL-LK4OZZ)](https://www.swishnode.com/emilie/projects/emiliedionisio_tkhphase1project.pdf) |
+| ------------------------------- |
 
 
 ![Phase 1 Topology](https://drive.google.com/uc?export=view&id=1ntKZmK5b0zqiIUvZ_DsmM9ewL-LK4OZZ)
