@@ -23,8 +23,11 @@ Through the implementation of these cybersecurity tools, I aimed to create a sec
 ### Phase 2 Project
 
 
+
 | [![Phase 1 Security Lab Project](https://drive.google.com/uc?export=view&id=1dOCKPqjAAZ6FCrwCneTcPWdVlWrqSlva)](https://drive.google.com/file/d/1H7zrRbCYTUCK0k_M0hsuTlMP_VulvDS5/view?usp=share_link) |
 | ------------------------------- |
+
+
 
 The primary objective of this project was to learn how to build and configure a website from scratch using the LAMP stack and AWS. Additionally, we aimed to demonstrate our knowledge and skills acquired during Phase 1, particularly in security, and apply what we've learned in Phase 2 regarding AWS. Through this WordPress website, we can showcase our individual skills while also working together as a team and learning from one another.
 
