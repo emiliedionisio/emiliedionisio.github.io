@@ -1,7 +1,14 @@
 
 # 📖 Research
 
- - [Penetration Testing Research Paper](https://drive.google.com/file/d/1rLXOe8AOHbMTvmWsyNy2t2PijXosd1w8/view?usp=sharing)
+## 🔗 Author: 👐
+
+### Emilie Dionisio👩‍
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdionisio/)
+- [@Emilie Dionisio](https://github.com/emiliedionisio)
+
+
+- [Penetration Testing Research Paper](https://drive.google.com/file/d/1rLXOe8AOHbMTvmWsyNy2t2PijXosd1w8/view?usp=sharing)
  - [Github Steps](https://drive.google.com/file/d/1RtANDNXwEHBl9lyTQGnSL2bbFN2T2exH/view?usp=sharing)
  - [Docker](https://drive.google.com/file/d/1FWGcf0IipXCIW15llKk9ZZyIMySjde5C/view?usp=share_link)
 
@@ -81,4 +88,8 @@ Another key aspect of Docker's importance is its resource efficiency. Containers
 The paper also highlights Docker's vast ecosystem, including Docker Hub, a repository of pre-built container images, and Docker Compose, a tool for orchestrating multi-container applications. These resources provide a wealth of readily available and easily deployable applications, accelerating development and simplifying complex deployments.
 
 In conclusion, Docker is a powerful platform for simplifying application deployment and management. By encapsulating applications into containers, Docker ensures consistency, portability, and efficient resource utilization. The paper's demonstration of setting up and using Docker in the Linode Cloud showcases the practical implementation of Docker in a scalable and reliable cloud environment. Adopting Docker can significantly streamline the development process and improve the efficiency of deploying applications in the Linode Cloud or any other infrastructure.
+
+### Emilie Dionisio👩‍
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdionisio/)
+- [@Emilie Dionisio](https://github.com/emiliedionisio)
 
