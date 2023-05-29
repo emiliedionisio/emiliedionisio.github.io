@@ -1,6 +1,6 @@
 # EMILIE DIONISIO 
 #### New York, NY 10003
-#### [PROJECTS](/emprojects.md) | [RESEARCH](/emprojects.md) | [DOWNLOAD RESUME](/emprojects.md) <br />
+#### [PROJECTS](/emprojects.md) | [RESEARCH](emResearch.md) | [DOWNLOAD RESUME](/emprojects.md) <br />
 📫 edionisio@swishport.com <br />
 📲 +1.646.770.1205
 <p>
