@@ -2,9 +2,9 @@
 
 ## Group Projects at The Knowledge House
 
-### Phase 1 Project
+### [![Phase 1 Project](https://drive.google.com/uc?export=view&id=18p_KGlH43DdAuXH3-GPsYiTfQXMHfIU1)](/tkhPhase1.md)
 
-| [![A mushroom-head robot](https://drive.google.com/uc?export=view&id=18p_KGlH43DdAuXH3-GPsYiTfQXMHfIU1)](/tkhPhase1.md) |
+| [![Phase 1 Project](https://drive.google.com/uc?export=view&id=18p_KGlH43DdAuXH3-GPsYiTfQXMHfIU1)](/tkhPhase1.md) |
 | ------------------------------- |
 
 In my cybersecurity phase 1 project, I took measures to implement cybersecurity practices within the lab environment. I incorporated Ubuntu Servers with Suricata and Splunk, as well as PfSense with Snort, to enhance the security of the network. These tools enabled me to monitor network traffic, detect potential threats, and analyze log data for security purposes.
