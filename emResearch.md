@@ -1,12 +1,6 @@
 
 # 📖 Research
 
-## 🔗 Author: 👐
-
-### Emilie Dionisio👩‍
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdionisio/)
-[](https://github.com/emiliedionisio)
-
 
 - [Penetration Testing Research Paper](https://drive.google.com/file/d/1rLXOe8AOHbMTvmWsyNy2t2PijXosd1w8/view?usp=sharing)
  - [Github Steps](https://drive.google.com/file/d/1RtANDNXwEHBl9lyTQGnSL2bbFN2T2exH/view?usp=sharing)
@@ -89,7 +83,9 @@ The paper also highlights Docker's vast ecosystem, including Docker Hub, a repos
 
 In conclusion, Docker is a powerful platform for simplifying application deployment and management. By encapsulating applications into containers, Docker ensures consistency, portability, and efficient resource utilization. The paper's demonstration of setting up and using Docker in the Linode Cloud showcases the practical implementation of Docker in a scalable and reliable cloud environment. Adopting Docker can significantly streamline the development process and improve the efficiency of deploying applications in the Linode Cloud or any other infrastructure.
 
+
+## 🔗 Author: 👐
+
 ### Emilie Dionisio👩‍
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdionisio/)
-- [@Emilie Dionisio](https://github.com/emiliedionisio)
-
+[](https://github.com/emiliedionisio)
