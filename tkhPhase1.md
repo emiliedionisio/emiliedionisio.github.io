@@ -2,6 +2,8 @@
 ## Project Title: Designed and implemented a secure network infrastructure
 [Preview Full Project Report](https://www.swishnode.com/emilie/projects/emiliedionisio_tkhphase1project.pdf)
 
+| [![A mushroom-head robot](https://drive.google.com/uc?export=view&id=1ntKZmK5b0zqiIUvZ_DsmM9ewL-LK4OZZ](https://www.swishnode.com/emilie/projects/emiliedionisio_tkhphase1project.pdf) |
+| ------------------------------- |
 
 ![Phase 1 Topology](https://drive.google.com/uc?export=view&id=1ntKZmK5b0zqiIUvZ_DsmM9ewL-LK4OZZ)
 
