@@ -63,7 +63,7 @@ The primary objective of this project was to learn how to build and configure a 
 - [Docker](https://github.com/cybertrainingrange/ctre-team-a/blob/main/docker.md)
 
 
-| [![Phase 1 Security Lab Project](https://drive.google.com/uc?export=view&id=1Vq9GLZNZMzQ3swg0GTdN7_PH5nfTSBFm)](https://github.com/cybertrainingrange/redteam) |
+| [![Phase 1 Security Lab Project](https://drive.google.com/uc?export=view&id=1fDEySru5fV2hZtmKGcYd8_Z1-9Km-PKW)](https://github.com/cybertrainingrange/redteam) |
 | ------------------------------- |
 
 
