@@ -46,7 +46,7 @@ The primary objective of this project was to learn how to build and configure a 
 
 ---
 
-### [Sprint 1 - Phase 3 Capstone Project](https://github.com/cybertrainingrange/redteam)
+### [Phase 3 Capstone Project - Sprint 1](https://github.com/cybertrainingrange/redteam)
 
 
 
