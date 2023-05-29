@@ -11,6 +11,7 @@
 | [![Phase 1 Security Lab Project](https://drive.google.com/uc?export=view&id=10FouwNPct-Rv80WdmlKDnzcorZ8iwdeL)](https://drive.google.com/file/d/1BU9vGP-rplpWunlp1_9la4xD5KDz9dWX/view?usp=share_link) |
 | ------------------------------- |
 
+
 In my cybersecurity phase 1 project, I took measures to implement cybersecurity practices within the lab environment. I incorporated Ubuntu Servers with Suricata and Splunk, as well as PfSense with Snort, to enhance the security of the network. These tools enabled me to monitor network traffic, detect potential threats, and analyze log data for security purposes.
 
 By utilizing Suricata, an open-source intrusion detection system (IDS), I could actively monitor the network for any suspicious activities or malicious behavior. Splunk, on the other hand, served as a powerful log management and analysis tool, allowing me to centralize and analyze security-related logs for identifying potential security incidents.
