@@ -11,7 +11,7 @@
 
 
 
-![Main Landing Photo](https://drive.google.com/uc?export=view&id=1tBGbzQM7QC1vYrusxTWEWzUfReNJYXlE)
+![Main Landing Photo](https://drive.google.com/uc?export=view&id=1JgZG8PanzgYb1vNJzhlf9pBgxXjbIWGK)
 
 
 
