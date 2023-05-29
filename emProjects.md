@@ -8,7 +8,7 @@
 | --------------------------------- |
 
 
-| [[Phase 1 Project](https://www.swishnode.com/emilie/projects/emiliedionisio_tkhphase1project.pdf)](https://drive.google.com/file/d/1rLXOe8AOHbMTvmWsyNy2t2PijXosd1w8/view?usp=sharing) |
+| [![Phase 1 Security Lab Project](https://drive.google.com/uc?export=view&id=10FouwNPct-Rv80WdmlKDnzcorZ8iwdeL)](https://drive.google.com/file/d/1rLXOe8AOHbMTvmWsyNy2t2PijXosd1w8/view?usp=sharing) |
 | ------------------------------- |
 
 In my cybersecurity phase 1 project, I took measures to implement cybersecurity practices within the lab environment. I incorporated Ubuntu Servers with Suricata and Splunk, as well as PfSense with Snort, to enhance the security of the network. These tools enabled me to monitor network traffic, detect potential threats, and analyze log data for security purposes.
