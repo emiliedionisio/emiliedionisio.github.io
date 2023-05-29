@@ -1,6 +1,6 @@
 # 🔭 Projects 
 
-## Group Project at The Knowledge House
+## Group Projects at The Knowledge House
 
 ### Phase 1 Project
 
