@@ -24,7 +24,7 @@ Through the implementation of these cybersecurity tools, I aimed to create a sec
 
 
 
-| [![Phase 1 Security Lab Project](https://drive.google.com/uc?export=view&id=1dOCKPqjAAZ6FCrwCneTcPWdVlWrqSlva)](https://drive.google.com/file/d/1H7zrRbCYTUCK0k_M0hsuTlMP_VulvDS5/view?usp=share_link) |
+| [![Phase 1 Security Lab Project](https://drive.google.com/uc?export=view&id=1gUD8Zx2H4GErKiNa5m1jRo_TdGIbYq5F)](https://drive.google.com/file/d/1H7zrRbCYTUCK0k_M0hsuTlMP_VulvDS5/view?usp=share_link) |
 | ------------------------------- |
 
 
