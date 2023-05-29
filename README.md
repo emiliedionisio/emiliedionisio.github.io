@@ -2,7 +2,7 @@
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&pause=1000&color=3FF799&width=435&lines=Hello+there%2C++I'm+Emilie!+Welcome+to+my+page!;I'm+a+self+taught+gal.+Always+learning+new+things.;I+have+a+knack+for+Network+Security+and+a+cup+of+joe.;With+10+years+of+experience++as+a+Technical+Support.;Help%2C+Teach%2C+and+Learn+are+always+my+mantra.)](https://git.io/typing-svg) -->
 
 
-#### [PROJECTS](/emProjects.md) | [RESEARCH](/emResearch.md) | [RESUME ON GITPAGE](/emtechres.md) | [RESUME IN PDF](https://drive.google.com/file/d/1djH2eQEjbeZHFHAlqzNrIv9IYX0zOKRc/view?usp=share_link)<br /> 
+#### [PROJECTS](/emProjects.md) | [RESEARCH](/emResearch.md) | [RESUME ON GITPAGE](/emtechres.md) | [RESUME PDF VERSION](https://drive.google.com/file/d/1djH2eQEjbeZHFHAlqzNrIv9IYX0zOKRc/view?usp=share_link)<br /> 
 
 
 
