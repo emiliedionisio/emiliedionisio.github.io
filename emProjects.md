@@ -82,7 +82,7 @@ The primary objective of this project was to learn how to build and configure a 
 
 ### [Phase 3 Capstone Project - Sprint 4](https://github.com/cybertrainingrange/Sprint4)
 #### My participation research and technical documentations:
-- [Analyzing Network Protocol](https://github.com/cybertrainingrange/ctre-team-a/blob/main/apigateway.md)
+- [Analyzing Network Protocol](https://github.com/cybertrainingrange/Sprint4/blob/main/AnalyzingNetworkProtocols.md)
 
 
 
