@@ -23,7 +23,7 @@ Furthermore, I integrated PfSense with Snort, an open-source network intrusion p
 
 Through the implementation of these cybersecurity tools, I aimed to create a secure lab environment that mirrored real-world scenarios. It allowed me to gain practical experience in detecting and mitigating potential threats, thereby strengthening my understanding of cybersecurity concepts and enhancing my skills as a future cybersecurity professional.
 
-
+---
 
 ### [Phase 2 Group Project](https://drive.google.com/file/d/1H7zrRbCYTUCK0k_M0hsuTlMP_VulvDS5/view?usp=share_link)
 
@@ -43,3 +43,12 @@ The primary objective of this project was to learn how to build and configure a 
 **Project Solutions:** To avoid these issues, we created our own individual environments within our respective AWS accounts. This allowed us to work independently, while also collaborating as a team. In this report, you will find detailed project descriptions for each team member, including information on how we built our respective parts of our project.
 
 **Project Tools:** To support our collaborative efforts, we utilized a range of tools, including Zoom, Google Meet, Google Workspace (Share Drive), Jira, Slack Private Channel, and Huddle. These tools facilitated communication and allowed us to work efficiently as a team.
+
+---
+
+### [Phase 2 Group Project](https://drive.google.com/file/d/1H7zrRbCYTUCK0k_M0hsuTlMP_VulvDS5/view?usp=share_link)
+
+
+
+| [![Phase 1 Security Lab Project](https://drive.google.com/uc?export=view&id=1gUD8Zx2H4GErKiNa5m1jRo_TdGIbYq5F)](https://drive.google.com/file/d/1H7zrRbCYTUCK0k_M0hsuTlMP_VulvDS5/view?usp=share_link) |
+| ------------------------------- |
