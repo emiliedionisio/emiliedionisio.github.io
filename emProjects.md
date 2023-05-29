@@ -77,5 +77,16 @@ The primary objective of this project was to learn how to build and configure a 
 | [![Phase 1 Security Lab Project](https://drive.google.com/uc?export=view&id=1fDEySru5fV2hZtmKGcYd8_Z1-9Km-PKW)](https://github.com/cybertrainingrange/redteam) |
 | ------------------------------- |
 
+---
+
+### [Phase 3 Capstone Project - Sprint 4](https://github.com/cybertrainingrange/Sprint4)
+#### My participation research and technical documentations:
+- [Analyzing Network Protocol](https://github.com/cybertrainingrange/ctre-team-a/blob/main/apigateway.md)
+
+
+
+| [![Phase 1 Security Lab Project](https://drive.google.com/uc?export=view&id=1fDEySru5fV2hZtmKGcYd8_Z1-9Km-PKW)](https://github.com/cybertrainingrange/redteam) |
+| ------------------------------- |
+
 
 
