@@ -37,7 +37,6 @@ A diverse selection of tools assists penetration testers in their endeavors. Pop
 This concise research paper provides an overview of the benefits, phases, methodologies, types, essential knowledge, and an array of tools used in penetration testing. By comprehending these aspects, organizations can proactively strengthen their security measures and protect their digital assets from evolving threats. The knowledge and insights gained from this paper empower readers to engage in effective and efficient penetration testing practices.
 
 ---
-<br />
 
 
 ## GitHub Demystified: Easy Installation and Efficient Workflow Setup
