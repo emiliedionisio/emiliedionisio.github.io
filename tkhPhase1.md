@@ -3,10 +3,6 @@
 [Preview Full Project Report](https://www.swishnode.com/emilie/projects/emiliedionisio_tkhphase1project.pdf)
 
 
-| [![Penetration Testing](https://drive.google.com/uc?export=view&id=1ntKZmK5b0zqiIUvZ_DsmM9ewL-LK4OZZ)](https://www.swishnode.com/emilie/projects/emiliedionisio_tkhphase1project.pdf) |
-| ------------------------------- |
-
-
 ### Project Description:
 I designed and implemented a secure network infrastructure consisting of three Windows 10 host machines and one Mac OS X host machine. A virtual box was installed on each host machine. They were all connected to the switch behind the router. They were separated from the main network and used different private IP address pools on their own subnet. This lab demonstrated a secure network infrastructure that incorporated various technologies and techniques to protect against potential threats.
 
