@@ -47,7 +47,9 @@ The primary objective of this project was to learn how to build and configure a 
 ---
 
 ### [Phase 3 Capstone Project - Sprint 1](https://github.com/cybertrainingrange/redteam)
-
+#### My participation research and technical documentation:
+- [Exploitation](https://github.com/cybertrainingrange/redteam/blob/main/Exploit_edionisio.md)
+- [Demo of Vulnerable S3 bucket](https://github.com/cybertrainingrange/redteam/blob/main/Vulnerable_s3bucket_edionisio.md)
 
 
 | [![Phase 1 Security Lab Project](https://drive.google.com/uc?export=view&id=1Vq9GLZNZMzQ3swg0GTdN7_PH5nfTSBFm)](https://github.com/cybertrainingrange/redteam) |
