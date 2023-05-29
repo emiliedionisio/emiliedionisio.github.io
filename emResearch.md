@@ -5,7 +5,7 @@
 
 ### Emilie Dionisio👩‍
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdionisio/)
-[@Emilie Dionisio](https://github.com/emiliedionisio)
+[](https://github.com/emiliedionisio)
 
 
 - [Penetration Testing Research Paper](https://drive.google.com/file/d/1rLXOe8AOHbMTvmWsyNy2t2PijXosd1w8/view?usp=sharing)
