@@ -4,10 +4,6 @@
 
 ### [Phase 1 Project](/tkhPhase1.md)
 
-| [Phase 1 Project](https://www.swishnode.com/emilie/projects/emiliedionisio_tkhphase1project.pdf) |
-| --------------------------------- |
-
-
 | [![Phase 1 Security Lab Project](https://drive.google.com/uc?export=view&id=10FouwNPct-Rv80WdmlKDnzcorZ8iwdeL)](https://drive.google.com/file/d/1BU9vGP-rplpWunlp1_9la4xD5KDz9dWX/view?usp=share_link) |
 | ------------------------------- |
 
