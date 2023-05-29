@@ -2,7 +2,7 @@
 
 ## Group Projects at The Knowledge House
 
-### ![Phase 1 Project](/tkhPhase1.md)
+### [Phase 1 Project](/tkhPhase1.md)
 
 | [![Phase 1 Project](https://drive.google.com/uc?export=view&id=18p_KGlH43DdAuXH3-GPsYiTfQXMHfIU1)](/tkhPhase1.md) |
 | ------------------------------- |
