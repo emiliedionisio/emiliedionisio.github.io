@@ -25,12 +25,17 @@ Through the implementation of these cybersecurity tools, I aimed to create a sec
 
 ---
 
+
+
 ### [Phase 2 Group Project](https://drive.google.com/file/d/1H7zrRbCYTUCK0k_M0hsuTlMP_VulvDS5/view?usp=share_link)
+
+
 
 
 
 | [![Phase 1 Security Lab Project](https://drive.google.com/uc?export=view&id=1gUD8Zx2H4GErKiNa5m1jRo_TdGIbYq5F)](https://drive.google.com/file/d/1H7zrRbCYTUCK0k_M0hsuTlMP_VulvDS5/view?usp=share_link) |
 | ------------------------------- |
+
 
 
 
@@ -44,7 +49,10 @@ The primary objective of this project was to learn how to build and configure a 
 
 **Project Tools:** To support our collaborative efforts, we utilized a range of tools, including Zoom, Google Meet, Google Workspace (Share Drive), Jira, Slack Private Channel, and Huddle. These tools facilitated communication and allowed us to work efficiently as a team.
 
+
 ---
+
+
 
 ### [Phase 3 Capstone Project - Sprint 1](https://github.com/cybertrainingrange/redteam)
 #### My participation research and technical documentations:
