@@ -42,7 +42,12 @@ Collaboration is a natural fit for me, as I enjoy actively participating in brai
 
 Combining my strong background in Networking with my growing proficiency in Cybersecurity and AWS Cloud Computing, I am enthusiastic about the possibilities that lie ahead. I am eager to embark on new challenges, broaden my skill set, and make a positive impact in the ever-evolving world of technology.
 
+
+
 ![Em Street Photo](https://drive.google.com/uc?export=view&id=1ZEDepgaEJ-VHaKf0830Yhd39IYlaW3l_)
+
+
+
 
 In my spare time when I'm  not studying or working, I love taking leisurely strolls around my neighborhood, city streets, and parks, armed with my trusty camera. It's my way of soaking up the sights and snapping photos of the people and places that catch my eye. But for me, it's not just about clicking random shots—it's about telling stories and creating narratives.
 
