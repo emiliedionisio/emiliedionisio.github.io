@@ -77,7 +77,11 @@ Finally, we utilized Amazon API Gateway to facilitate seamless integration betwe
 
 By designing and developing this cloud-based cybersecurity training range environment, we demonstrated our ability to apply learned skills and tools to create a practical and comprehensive solution. Our aim was to provide an immersive and effective learning experience for future cohorts or potential corporate clients, equipping them with the necessary cybersecurity knowledge and skills. 
 
-## 📘 [My Research Project](https://drive.google.com/file/d/17IVccbve_boajSNkOt9CQMrp80ro1t7m/view?usp=share_link) 
+## 📘 [My Research Project](/emResearch.md) 
+
+## 📘 [Projects](/emProjects.md) 
+
+---
 
 - 🌱 I’m currently learning Cybersecurity Networking at [The Knowledge House](https://www.theknowledgehouse.org/)
 - 📫 How to reach me: edionisio@swishport.com
