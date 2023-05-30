@@ -58,7 +58,7 @@ So, yeah, for me, it's not just about capturing pretty pictures. It's about embr
 ## 💻 Capstone Project
 🔭 I’m currently participating in our group capstone project called [Cybersecurity Training Range Project at The Knowledge House](https://github.com/orgs/cybertrainingrange/repositories)
 
-| ---------- |
+
 | Our group capstone project focused on designing and implementing a comprehensive cloud-based cybersecurity training range environment. Our objective was to develop a solution that could be utilized for future cohorts or potentially be offered as a learning and training product to companies.
 
 Throughout the project, we demonstrated our knowledge, skills, and abilities in a variety of AWS services, showcasing our expertise in planning, designing, configuring, provisioning, securing, and deploying high-quality solutions.
