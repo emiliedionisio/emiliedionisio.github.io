@@ -59,13 +59,9 @@ So, yeah, for me, it's not just about capturing pretty pictures. It's about embr
 🔭 I’m currently participating in our group capstone project called [Cybersecurity Training Range Project at The Knowledge House](https://github.com/orgs/cybertrainingrange/repositories)
 
 
-Our group capstone project focused on designing and implementing a comprehensive cloud-based cybersecurity training range environment. Our objective was to develop a solution that could be utilized for future cohorts or potentially be offered as a learning and training product to companies.
+Our group capstone project focused on designing and implementing a comprehensive cloud-based cybersecurity training range environment. Our objective was to develop a solution that could be utilized for future cohorts or potentially be offered as a learning and training product to companies. Throughout the project, we demonstrated our knowledge, skills, and abilities in a variety of AWS services, showcasing our expertise in planning, designing, configuring, provisioning, securing, and deploying high-quality solutions.
 
-Throughout the project, we demonstrated our knowledge, skills, and abilities in a variety of AWS services, showcasing our expertise in planning, designing, configuring, provisioning, securing, and deploying high-quality solutions.
-
-The main goal was to create a full-scale cloud native cybersecurity training range environment using AWS services. We carefully considered the requirements and needs of future cohorts or potential corporate clients to ensure that our solution was robust, feature-rich, and effective.
-
-To achieve this, we leveraged a range of AWS services, including EC2 for hosting various applications and tools needed for cybersecurity training. IAM was used to manage access and permissions to the different resources within the environment, ensuring proper security measures were in place.
+The main goal was to create a full-scale cloud native cybersecurity training range environment using AWS services. We carefully considered the requirements and needs of future cohorts or potential corporate clients to ensure that our solution was robust, feature-rich, and effective. To achieve this, we leveraged a range of AWS services, including EC2 for hosting various applications and tools needed for cybersecurity training. IAM was used to manage access and permissions to the different resources within the environment, ensuring proper security measures were in place.
 
 AWS Security Groups and NACLS were implemented to enforce network-level security policies, protecting against unauthorized access and potential threats. We also utilized WAF (Web Application Firewall) to add an extra layer of protection against web exploits and attacks.
 
