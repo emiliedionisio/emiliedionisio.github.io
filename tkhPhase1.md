@@ -1,6 +1,6 @@
 # Phase 1 TKH Project
 
-#### [PROJECTS](/emProjects.md) | [RESEARCH](/emResearch.md) | [RESUME ON GITPAGE](/emtechres.md) | [RESUME PDF VERSION](https://drive.google.com/file/d/1djH2eQEjbeZHFHAlqzNrIv9IYX0zOKRc/view?usp=share_link)<br /> 
+#### [PROJECTS](/emProjects.md) | [RESEARCH](/emResearch.md) | [RESUME ON GITPAGE](/emtechres.md) | [RESUME PDF VERSION](https://drive.google.com/file/d/1djH2eQEjbeZHFHAlqzNrIv9IYX0zOKRc/view?usp=share_link) | [CERTS](https://www.credly.com/users/emilie-dionisio-charriez/badges)<br /> 
 
 ## Project Title: Designed and implemented a secure network infrastructure
 [Preview Full Project Report](https://www.swishnode.com/emilie/projects/emiliedionisio_tkhphase1project.pdf)
