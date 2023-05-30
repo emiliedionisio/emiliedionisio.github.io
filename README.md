@@ -79,7 +79,7 @@ By designing and developing this cloud-based cybersecurity training range enviro
 
 ## 📘 [My Research Project](/emResearch.md) 
 
-## 🕰️ [Projects](/emProjects.md) 
+## 🕰️ [Capston Project](/emProjects.md) 
 
 ---
 
