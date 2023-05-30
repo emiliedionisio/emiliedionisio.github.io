@@ -46,7 +46,7 @@ Combining my strong background in Networking with my growing proficiency in Cybe
 
 
 
-[Em Street Photo](https://drive.google.com/uc?export=view&id=1ZEDepgaEJ-VHaKf0830Yhd39IYlaW3l_)
+![Em Street Photo](https://drive.google.com/uc?export=view&id=1ZEDepgaEJ-VHaKf0830Yhd39IYlaW3l_)
 
 
 
