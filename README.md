@@ -59,7 +59,7 @@ So, yeah, for me, it's not just about capturing pretty pictures. It's about embr
 🔭 I’m currently participating in our group capstone project called [Cybersecurity Training Range Project at The Knowledge House](https://github.com/orgs/cybertrainingrange/repositories)
 
 
-| Our group capstone project focused on designing and implementing a comprehensive cloud-based cybersecurity training range environment. Our objective was to develop a solution that could be utilized for future cohorts or potentially be offered as a learning and training product to companies.
+Our group capstone project focused on designing and implementing a comprehensive cloud-based cybersecurity training range environment. Our objective was to develop a solution that could be utilized for future cohorts or potentially be offered as a learning and training product to companies.
 
 Throughout the project, we demonstrated our knowledge, skills, and abilities in a variety of AWS services, showcasing our expertise in planning, designing, configuring, provisioning, securing, and deploying high-quality solutions.
 
@@ -79,7 +79,7 @@ To monitor the environment and gather insights, we employed CloudWatch, which pr
 
 Finally, we utilized Amazon API Gateway to facilitate seamless integration between different components of the training range environment, allowing for easy access to resources and tools.
 
-By designing and developing this cloud-based cybersecurity training range environment, we demonstrated our ability to apply learned skills and tools to create a practical and comprehensive solution. Our aim was to provide an immersive and effective learning experience for future cohorts or potential corporate clients, equipping them with the necessary cybersecurity knowledge and skills. |
+By designing and developing this cloud-based cybersecurity training range environment, we demonstrated our ability to apply learned skills and tools to create a practical and comprehensive solution. Our aim was to provide an immersive and effective learning experience for future cohorts or potential corporate clients, equipping them with the necessary cybersecurity knowledge and skills. 
 
 
 ## 📘 Research Paper
