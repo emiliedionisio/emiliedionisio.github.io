@@ -1,15 +1,18 @@
 # 🔭 Projects 
 
+#### [PROJECTS](/emProjects.md) | [RESEARCH](/emResearch.md) | [RESUME ON GITPAGE](/emtechres.md) | [RESUME PDF VERSION](https://drive.google.com/file/d/1djH2eQEjbeZHFHAlqzNrIv9IYX0zOKRc/view?usp=share_link)<br /> 
+
 ## Group Projects at The Knowledge House
 
 ### [Phase 1 Project](/tkhPhase1.md)
 
-#### [PROJECTS](/emProjects.md) | [RESEARCH](/emResearch.md) | [RESUME ON GITPAGE](/emtechres.md) | [RESUME PDF VERSION](https://drive.google.com/file/d/1djH2eQEjbeZHFHAlqzNrIv9IYX0zOKRc/view?usp=share_link)<br /> 
+
 
 
 
 | [![Phase 1 Security Lab Project](https://drive.google.com/uc?export=view&id=18p_KGlH43DdAuXH3-GPsYiTfQXMHfIU1)](https://drive.google.com/file/d/1BU9vGP-rplpWunlp1_9la4xD5KDz9dWX/view?usp=share_link) |
 | ------------------------------- |
+
 
 
 
