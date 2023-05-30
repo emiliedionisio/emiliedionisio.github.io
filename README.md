@@ -83,7 +83,7 @@ By designing and developing this cloud-based cybersecurity training range enviro
 
 - 🌱 I’m currently learning Cybersecurity Networking at [The Knowledge House](https://www.theknowledgehouse.org/)
 - 📫 How to reach me: edionisio@swishport.com
-- ⚡ Fun fact: I roam around New York City and other cities taking photos street life moments of people. An amateur street photography. 
+- ⚡ Fun fact: I roam around New York City and other cities taking photos street life moments of people. I'm an amateur street photographer who has a heart for telling stories one snap shot at a split of a second. 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emdionisio/">
