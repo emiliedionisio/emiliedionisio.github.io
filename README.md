@@ -23,6 +23,20 @@
     <a href="https://github.com/emiliedionisio"><img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" /></a>
 </p>
 
+📫 edionisio@swishnode.com <br />
+📲 +1.646.770.1205
+<p>
+  <a href="https://www.linkedin.com/in/emdionisio/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+   </a>  		
+  <a href="https://github.com/emiliedionisio">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>    
+  <a href="https://f14streetphotog.wixsite.com/fstopmoment">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+<br />
 
 <!---|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1_Px6rC01N12xsDqnYvmyWORzAiwlZXLa)  |   ![App Screenshot](https://drive.google.com/uc?export=view&id=1F_FzXU7DaIzoOblHXQdz4OXzkp2pYw_j)  |    ![App Screenshot](https://drive.google.com/uc?export=view&id=1SF_Rf19mnJaVMP2AVyEiuWalSYp6diR4) |  ![App Screenshot](https://drive.google.com/uc?export=view&id=120uOb3Mj3VsCHq8deMUNFuUsdZFwCyCI)  |
 | ---------------------------- | -------------------------- | --------------------- | ------------------ | --->
