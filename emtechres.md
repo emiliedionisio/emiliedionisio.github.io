@@ -1,7 +1,7 @@
 # EMILIE DIONISIO 
 #### New York, NY 10003
 #### [PROJECTS](/emProjects.md) | [RESEARCH](/emResearch.md) | [RESUME ON GITPAGE](/emtechres.md) | [RESUME PDF VERSION](https://drive.google.com/file/d/1djH2eQEjbeZHFHAlqzNrIv9IYX0zOKRc/view?usp=share_link) | [CERTS](https://www.credly.com/users/emilie-dionisio-charriez/badges)<br />
-📫 edionisio@swishport.com <br />
+📫 edionisio@swishnode.com <br />
 📲 +1.646.770.1205
 <p>
   <a href="https://www.linkedin.com/in/emdionisio/">
