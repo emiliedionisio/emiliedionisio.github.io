@@ -6,6 +6,8 @@
 | Header | Title |
 | ----------- | ----------- |
 | Paragraph | Text |
+| Paragraph 2 | Text 2|
+| Paragraph 3 | Text 3|
 
 
 #### [PROJECTS](/emProjects.md) | [RESEARCH](/emResearch.md) | [RESUME ON GITPAGE](/emtechres.md) | [RESUME PDF VERSION](https://drive.google.com/file/d/1djH2eQEjbeZHFHAlqzNrIv9IYX0zOKRc/view?usp=share_link) | [CERTS](https://www.credly.com/users/emilie-dionisio-charriez/badges)<br /> 
