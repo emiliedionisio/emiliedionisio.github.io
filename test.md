@@ -1,11 +1,10 @@
 
 # 💻 Research 
 
-
-List to do:
-- Emilie
-- Buy 
-- Hello
+	| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
 
 #### [PROJECTS](/emProjects.md) | [RESEARCH](/emResearch.md) | [RESUME ON GITPAGE](/emtechres.md) | [RESUME PDF VERSION](https://drive.google.com/file/d/1djH2eQEjbeZHFHAlqzNrIv9IYX0zOKRc/view?usp=share_link) | [CERTS](https://www.credly.com/users/emilie-dionisio-charriez/badges)<br /> 
