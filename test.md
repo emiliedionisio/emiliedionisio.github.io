@@ -2,7 +2,10 @@
 # 💻 Research 
 
 
-***
+List to do:
+- Emilie
+- Buy 
+- Hello
 
 
 #### [PROJECTS](/emProjects.md) | [RESEARCH](/emResearch.md) | [RESUME ON GITPAGE](/emtechres.md) | [RESUME PDF VERSION](https://drive.google.com/file/d/1djH2eQEjbeZHFHAlqzNrIv9IYX0zOKRc/view?usp=share_link) | [CERTS](https://www.credly.com/users/emilie-dionisio-charriez/badges)<br /> 
@@ -55,6 +58,7 @@ This concise research paper provides an overview of the benefits, phases, method
 | [![A mushroom-head robot](https://drive.google.com/uc?export=view&id=1i0fTK0eShcuhxEkE-f11Uz-saZkzZ_Ea)](https://drive.google.com/file/d/1RtANDNXwEHBl9lyTQGnSL2bbFN2T2exH/view?usp=sharing) |
 | ------------------------------- |
 
+-
 
 This research paper offers a concise beginner's guide to using GitHub with Git Bash. It provides an overview of GitHub's purpose and significance in version control and collaboration while focusing on essential commands and operations.
 
