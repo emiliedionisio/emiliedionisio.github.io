@@ -23,7 +23,7 @@
     <a href="https://github.com/emiliedionisio"><img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" /></a>
 </p>
 
-📫 edionisio@swishnode.com <br />
+📫 emdiotech@proton.me <br />
 📲 +1.646.770.1205
 <p>
   <a href="https://www.linkedin.com/in/emdionisio/">
