@@ -4,13 +4,13 @@
 
 #### These are the compilation of all the projects that I've done at the [The Knowledge House](https://www.theknowledgehouse.org/) from the latest to the oldest order.
 
-### [Phase 3 Capstone Group Project - Sprint 1](https://github.com/cybertrainingrange/redteam)
+### [Phase 3: Capstone Group Project - Sprint 1](https://github.com/cybertrainingrange/redteam)
 #### My participation research and technical documentations:
 - [Exploitation](https://github.com/cybertrainingrange/redteam/blob/main/Exploit_edionisio.md)
 - [Demo of Vulnerable S3 bucket](https://github.com/cybertrainingrange/redteam/blob/main/Vulnerable_s3bucket_edionisio.md)
 
 
-| [![Phase 1 Security Lab Project](https://drive.google.com/uc?export=view&id=1Vq9GLZNZMzQ3swg0GTdN7_PH5nfTSBFm)](https://github.com/cybertrainingrange/redteam) |
+| [![Phase 3](https://drive.google.com/uc?export=view&id=1Vq9GLZNZMzQ3swg0GTdN7_PH5nfTSBFm)](https://github.com/cybertrainingrange/redteam) |
 | ------------------------------- |
 
 ### [Phase 3 Capstone Project - Sprint 3](https://github.com/cybertrainingrange/ctre-team-a)
@@ -21,7 +21,7 @@
 - [Docker](https://github.com/cybertrainingrange/ctre-team-a/blob/main/docker.md)
 
 
-| [![Phase 1 Security Lab Project](https://drive.google.com/uc?export=view&id=1fDEySru5fV2hZtmKGcYd8_Z1-9Km-PKW)](https://github.com/cybertrainingrange/redteam) |
+| [![Phase 3](https://drive.google.com/uc?export=view&id=1fDEySru5fV2hZtmKGcYd8_Z1-9Km-PKW)](https://github.com/cybertrainingrange/redteam) |
 | ------------------------------- |
 
 ---
@@ -32,7 +32,7 @@
 
 
 
-| [![Phase 1 Security Lab Project](https://drive.google.com/uc?export=view&id=1DoTzhRQq-dKvKxvWKMthoUkn84xqpnwL)](https://github.com/cybertrainingrange/Sprint4) |
+| [![Phase 3](https://drive.google.com/uc?export=view&id=1DoTzhRQq-dKvKxvWKMthoUkn84xqpnwL)](https://github.com/cybertrainingrange/Sprint4) |
 | ------------------------------- |
 
 ---
