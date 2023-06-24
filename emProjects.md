@@ -2,9 +2,9 @@
 
 #### [PROJECTS](/emProjects.md) | [RESEARCH](/emResearch.md) | [RESUME ON GITPAGE](/emtechres.md) | [RESUME PDF VERSION](https://drive.google.com/file/d/1djH2eQEjbeZHFHAlqzNrIv9IYX0zOKRc/view?usp=share_link) | [CERTS](https://www.credly.com/users/emilie-dionisio-charriez/badges)<br /> 
 
-## These are the compilation of all the projects that I've done at [The Knowledge House](https://www.theknowledgehouse.org/)
+## These are the compilation of all the projects that I've done and partcipated with at [The Knowledge House](https://www.theknowledgehouse.org/)
 
-### [Phase 1 Project](/tkhPhase1.md)
+### [Phase 1: Individual Project](/tkhPhase1.md)
 
 
 
@@ -39,7 +39,7 @@ Through the implementation of these cybersecurity tools, I aimed to create a sec
 
 
 
-| [![Phase 1 Security Lab Project](https://drive.google.com/uc?export=view&id=1gUD8Zx2H4GErKiNa5m1jRo_TdGIbYq5F)](https://drive.google.com/file/d/1H7zrRbCYTUCK0k_M0hsuTlMP_VulvDS5/view?usp=share_link) |
+| [![Phase 2 Project](https://drive.google.com/uc?export=view&id=1gUD8Zx2H4GErKiNa5m1jRo_TdGIbYq5F)](https://drive.google.com/file/d/1H7zrRbCYTUCK0k_M0hsuTlMP_VulvDS5/view?usp=share_link) |
 | ------------------------------- |
 
 
