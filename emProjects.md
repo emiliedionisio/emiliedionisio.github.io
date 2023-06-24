@@ -2,7 +2,7 @@
 
 #### [PROJECTS](/emProjects.md) | [RESEARCH](/emResearch.md) | [RESUME ON GITPAGE](/emtechres.md) | [RESUME PDF VERSION](https://drive.google.com/file/d/1djH2eQEjbeZHFHAlqzNrIv9IYX0zOKRc/view?usp=share_link) | [CERTS](https://www.credly.com/users/emilie-dionisio-charriez/badges)<br /> 
 
-## Group Projects at The Knowledge House
+## These are the compilation of all the projects that I've done at ![The Knowledge House](https://www.theknowledgehouse.org/)
 
 ### [Phase 1 Project](/tkhPhase1.md)
 
