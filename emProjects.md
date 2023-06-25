@@ -5,9 +5,19 @@
 ### 📱 **//ping me:**
 📫 emdiotech@proton.me <br />
 📲 +1.646.770.1205
+<p>
+  <a href="https://www.linkedin.com/in/emdionisio/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+   </a>  		
+  <a href="https://github.com/emiliedionisio">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>    
+  <a href="https://f14streetphotog.wixsite.com/fstopmoment">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
 
 ---
-
 #### These are the compilation of all the projects that I've done at the [The Knowledge House](https://www.theknowledgehouse.org/) from the latest to the oldest order.
 
 ## [Phase 3 Capstone Project - Sprint 6](https://github.com/cybertrainingrange/Sprint4)
