@@ -23,12 +23,12 @@
 ---
 #### These are the compilation of all the projects that I've done at the [The Knowledge House](https://www.theknowledgehouse.org/) from the latest to the oldest order.
 
-## [Phase 3 Capstone Project - Sprint 6](https://github.com/cybertrainingrange/Sprint4)
+## [Phase 3 Capstone Project - Sprint 6](https://github.com/cybertrainingrange/Sprint6)
 #### My participation research and technical documentations:
-- [Analyzing Network Protocol](https://github.com/cybertrainingrange/Sprint4/blob/main/AnalyzingNetworkProtocols.md)
+- [Defensive Security - Honeypot](https://github.com/cybertrainingrange/sprint6/blob/main/defensivesecurity.md)
 
 
-[![Phase 3](https://drive.google.com/uc?export=view&id=1DoTzhRQq-dKvKxvWKMthoUkn84xqpnwL)](https://github.com/cybertrainingrange/Sprint4) 
+[![Defensive Security - Honeypot](https://drive.google.com/uc?export=view&id=10NblcnpGOLno5otyHMZKj2p1iMjDJJ9A)](https://github.com/cybertrainingrange/Sprint6) 
 
 
 ## [Phase 3 Capstone Project - Sprint 5](https://github.com/cybertrainingrange/Sprint5)
@@ -37,7 +37,7 @@
 - [Industry Tools for SIEM](https://github.com/cybertrainingrange/Sprint5/blob/main/module5.md)
 
 
-[![Phase 3](https://drive.google.com/uc?export=view&id=10MRmLMqB4_qXDpuP3eh35Auw8PoavP9q)](https://github.com/cybertrainingrange/Sprint5)
+[![Industry Tools for SIEM](https://drive.google.com/uc?export=view&id=10MRmLMqB4_qXDpuP3eh35Auw8PoavP9q)](https://github.com/cybertrainingrange/Sprint5)
 
 
 ## [Phase 3 Capstone Project - Sprint 4](https://github.com/cybertrainingrange/Sprint4)
@@ -45,7 +45,7 @@
 - [Analyzing Network Protocol](https://github.com/cybertrainingrange/Sprint4/blob/main/AnalyzingNetworkProtocols.md)
 
 
- [![Phase 3](https://drive.google.com/uc?export=view&id=10MGiQV1b8uDh_pX4H9tLwk00VTMjzkTU)](https://github.com/cybertrainingrange/Sprint4)
+ [![Analyzing Network Protocol](https://drive.google.com/uc?export=view&id=10MGiQV1b8uDh_pX4H9tLwk00VTMjzkTU)](https://github.com/cybertrainingrange/Sprint4)
 
 
 ## [Phase 3 Capstone Project - Sprint 3](https://github.com/cybertrainingrange/ctre-team-a)
@@ -66,7 +66,7 @@
 - [Exploitation](https://github.com/cybertrainingrange/redteam/blob/main/Exploit_edionisio.md)
 - [Demo of Vulnerable S3 bucket](https://github.com/cybertrainingrange/redteam/blob/main/Vulnerable_s3bucket_edionisio.md)
 
-[![Phase 3](https://drive.google.com/uc?export=view&id=1Vq9GLZNZMzQ3swg0GTdN7_PH5nfTSBFm)](https://github.com/cybertrainingrange/redteam)
+[![Phase 3-Sprint1](https://drive.google.com/uc?export=view&id=1Vq9GLZNZMzQ3swg0GTdN7_PH5nfTSBFm)](https://github.com/cybertrainingrange/redteam)
 
 
 ---
