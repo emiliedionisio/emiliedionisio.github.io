@@ -5,7 +5,7 @@
 ## 📱 **//ping me:**
 📫 emdiotech@proton.me <br />
 📲 +1.646.770.1205
-<br />
+<br /><br />
 
 #### These are the compilation of all the projects that I've done at the [The Knowledge House](https://www.theknowledgehouse.org/) from the latest to the oldest order.
 
