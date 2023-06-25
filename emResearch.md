@@ -3,6 +3,11 @@
 
 ### [HOME](https://emiliedionisio.github.io/) | [PROJECTS](/emProjects.md) | [RESEARCH](/emResearch.md) | [RESUME ON GITPAGE](/emtechres.md) | [RESUME PDF VERSION](https://drive.google.com/file/d/1djH2eQEjbeZHFHAlqzNrIv9IYX0zOKRc/view?usp=share_link) | [CERTS](https://www.credly.com/users/emilie-dionisio-charriez/badges)<br /> 
 
+### 📱 **//ping me:**
+📫 emdiotech@proton.me <br />
+📲 +1.646.770.1205
+
+
 
  - [Penetration Testing Research Paper](https://drive.google.com/file/d/1rLXOe8AOHbMTvmWsyNy2t2PijXosd1w8/view?usp=sharing)
  - [Github Steps](https://drive.google.com/file/d/1RtANDNXwEHBl9lyTQGnSL2bbFN2T2exH/view?usp=sharing)
