@@ -1,8 +1,8 @@
 # 🔭 Projects 
 
-### [PROJECTS](/emProjects.md) | [RESEARCH](/emResearch.md) | [RESUME ON GITPAGE](/emtechres.md) | [RESUME PDF VERSION](https://drive.google.com/file/d/1djH2eQEjbeZHFHAlqzNrIv9IYX0zOKRc/view?usp=share_link) | [CERTS](https://www.credly.com/users/emilie-dionisio-charriez/badges)<br /> 
+## [PROJECTS](/emProjects.md) | [RESEARCH](/emResearch.md) | [RESUME ON GITPAGE](/emtechres.md) | [RESUME PDF VERSION](https://drive.google.com/file/d/1djH2eQEjbeZHFHAlqzNrIv9IYX0zOKRc/view?usp=share_link) | [CERTS](https://www.credly.com/users/emilie-dionisio-charriez/badges)<br /> 
 
-#### These are the compilation of all the projects that I've done at the [The Knowledge House](https://www.theknowledgehouse.org/) from the latest to the oldest order.
+### These are the compilation of all the projects that I've done at the [The Knowledge House](https://www.theknowledgehouse.org/) from the latest to the oldest order.
 
 ### [Phase 3: Capstone Group Project - Sprint 1](https://github.com/cybertrainingrange/redteam)
 #### My participation research and technical documentations:
@@ -13,7 +13,7 @@
 | [![Phase 3](https://drive.google.com/uc?export=view&id=1Vq9GLZNZMzQ3swg0GTdN7_PH5nfTSBFm)](https://github.com/cybertrainingrange/redteam) |
 | ------------------------------- |
 
-### [Phase 3 Capstone Project - Sprint 3](https://github.com/cybertrainingrange/ctre-team-a)
+## [Phase 3 Capstone Project - Sprint 3](https://github.com/cybertrainingrange/ctre-team-a)
 #### My participation research and technical documentations:
 - [Api Gateway](https://github.com/cybertrainingrange/ctre-team-a/blob/main/apigateway.md)
 - [Linux](https://github.com/cybertrainingrange/ctre-team-a/blob/main/linux.md)
@@ -26,7 +26,7 @@
 
 ---
 
-### [Phase 3 Capstone Project - Sprint 4](https://github.com/cybertrainingrange/Sprint4)
+## [Phase 3 Capstone Project - Sprint 4](https://github.com/cybertrainingrange/Sprint4)
 #### My participation research and technical documentations:
 - [Analyzing Network Protocol](https://github.com/cybertrainingrange/Sprint4/blob/main/AnalyzingNetworkProtocols.md)
 
@@ -37,7 +37,7 @@
 
 
 
-### [Phase 3 Capstone Project - Sprint 5](https://github.com/cybertrainingrange/Sprint4)
+## [Phase 3 Capstone Project - Sprint 5](https://github.com/cybertrainingrange/Sprint4)
 #### My participation research and technical documentations:
 - [Analyzing Network Protocol](https://github.com/cybertrainingrange/Sprint4/blob/main/AnalyzingNetworkProtocols.md)
 
@@ -48,7 +48,7 @@
 
 ---
 
-### [Phase 3 Capstone Project - Sprint 6](https://github.com/cybertrainingrange/Sprint4)
+## [Phase 3 Capstone Project - Sprint 6](https://github.com/cybertrainingrange/Sprint4)
 #### My participation research and technical documentations:
 - [Analyzing Network Protocol](https://github.com/cybertrainingrange/Sprint4/blob/main/AnalyzingNetworkProtocols.md)
 
@@ -56,9 +56,9 @@
 
 | [![Phase 3](https://drive.google.com/uc?export=view&id=1DoTzhRQq-dKvKxvWKMthoUkn84xqpnwL)](https://github.com/cybertrainingrange/Sprint4) |
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
-### [Phase 2 Group Project](https://drive.google.com/file/d/1H7zrRbCYTUCK0k_M0hsuTlMP_VulvDS5/view?usp=share_link)
+## [Phase 2 Group Project](https://drive.google.com/file/d/1H7zrRbCYTUCK0k_M0hsuTlMP_VulvDS5/view?usp=share_link)
 
 
 
@@ -86,7 +86,7 @@ The primary objective of this project was to learn how to build and configure a 
 ---
 
 
-### [Phase 1: Individual Project](/tkhPhase1.md)
+## [Phase 1: Individual Project](/tkhPhase1.md)
 
 
 
