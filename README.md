@@ -14,7 +14,7 @@
 ![Main Landing Photo](https://drive.google.com/uc?export=view&id=1JgZG8PanzgYb1vNJzhlf9pBgxXjbIWGK)
 
 
-
+https://f14streetphotog.wixsite.com/fstopmoment
 
 
 ## 🤯 Technical Skills
@@ -32,9 +32,12 @@
   <a href="https://github.com/emiliedionisio">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>    
-  <a href="https://f14streetphotog.wixsite.com/fstopmoment">
+  <a href="https://www.instagram.com/f1.4streetphotog/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+  <a href="https://twitter.com/emtech711">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>   
 </p>
 <!---|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1_Px6rC01N12xsDqnYvmyWORzAiwlZXLa)  |   ![App Screenshot](https://drive.google.com/uc?export=view&id=1F_FzXU7DaIzoOblHXQdz4OXzkp2pYw_j)  |    ![App Screenshot](https://drive.google.com/uc?export=view&id=1SF_Rf19mnJaVMP2AVyEiuWalSYp6diR4) |  ![App Screenshot](https://drive.google.com/uc?export=view&id=120uOb3Mj3VsCHq8deMUNFuUsdZFwCyCI)  |
 | ---------------------------- | -------------------------- | --------------------- | ------------------ | --->
