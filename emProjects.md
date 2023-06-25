@@ -34,7 +34,7 @@
 ## [Phase 3 Capstone Project - Sprint 5](https://github.com/cybertrainingrange/Sprint5)
 #### My participation research and technical documentations:
 
-- [Sprint 5l](https://github.com/cybertrainingrange/Sprint5/blob/main/module5.md)
+- [Industry Tools for SIEM](https://github.com/cybertrainingrange/Sprint5/blob/main/module5.md)
 
 
 [![Phase 3](https://drive.google.com/uc?export=view&id=10MRmLMqB4_qXDpuP3eh35Auw8PoavP9q)](https://github.com/cybertrainingrange/Sprint5)
