@@ -9,7 +9,7 @@
 - [Analyzing Network Protocol](https://github.com/cybertrainingrange/Sprint4/blob/main/AnalyzingNetworkProtocols.md)
 
 
-| [![Phase 3](https://drive.google.com/uc?export=view&id=1DoTzhRQq-dKvKxvWKMthoUkn84xqpnwL)](https://github.com/cybertrainingrange/Sprint4) |
+[![Phase 3](https://drive.google.com/uc?export=view&id=1DoTzhRQq-dKvKxvWKMthoUkn84xqpnwL)](https://github.com/cybertrainingrange/Sprint4) 
 
 
 ## [Phase 3 Capstone Project - Sprint 5](https://github.com/cybertrainingrange/Sprint4)
@@ -18,7 +18,7 @@
 - [Analyzing Network Protocol](https://github.com/cybertrainingrange/Sprint4/blob/main/AnalyzingNetworkProtocols.md)
 
 
-| [![Phase 3](https://drive.google.com/uc?export=view&id=1DoTzhRQq-dKvKxvWKMthoUkn84xqpnwL)](https://github.com/cybertrainingrange/Sprint4) |
+[![Phase 3](https://drive.google.com/uc?export=view&id=1DoTzhRQq-dKvKxvWKMthoUkn84xqpnwL)](https://github.com/cybertrainingrange/Sprint4)
 
 
 ## [Phase 3 Capstone Project - Sprint 4](https://github.com/cybertrainingrange/Sprint4)
@@ -26,8 +26,8 @@
 - [Analyzing Network Protocol](https://github.com/cybertrainingrange/Sprint4/blob/main/AnalyzingNetworkProtocols.md)
 
 
-| [![Phase 3](https://drive.google.com/uc?export=view&id=1DoTzhRQq-dKvKxvWKMthoUkn84xqpnwL)](https://github.com/cybertrainingrange/Sprint4) |
-| ------------------------------- |
+ [![Phase 3](https://drive.google.com/uc?export=view&id=1DoTzhRQq-dKvKxvWKMthoUkn84xqpnwL)](https://github.com/cybertrainingrange/Sprint4)
+
 
 
 ## [Phase 3 Capstone Project - Sprint 3](https://github.com/cybertrainingrange/ctre-team-a)
@@ -38,8 +38,8 @@
 - [Docker](https://github.com/cybertrainingrange/ctre-team-a/blob/main/docker.md)
 
 
-| [![Phase 3](https://drive.google.com/uc?export=view&id=1fDEySru5fV2hZtmKGcYd8_Z1-9Km-PKW)](https://github.com/cybertrainingrange/redteam) |
-| ------------------------------- |
+[![Phase 3](https://drive.google.com/uc?export=view&id=1fDEySru5fV2hZtmKGcYd8_Z1-9Km-PKW)](https://github.com/cybertrainingrange/redteam) 
+
 
 ### Phase 3: Capstone Group Project - Sprint 2 - BLUE TEAM (NOT PART OF THIS TEAM)
 
@@ -48,16 +48,14 @@
 - [Exploitation](https://github.com/cybertrainingrange/redteam/blob/main/Exploit_edionisio.md)
 - [Demo of Vulnerable S3 bucket](https://github.com/cybertrainingrange/redteam/blob/main/Vulnerable_s3bucket_edionisio.md)
 
-| [![Phase 3](https://drive.google.com/uc?export=view&id=1Vq9GLZNZMzQ3swg0GTdN7_PH5nfTSBFm)](https://github.com/cybertrainingrange/redteam) |
-| ------------------------------- |
+[![Phase 3](https://drive.google.com/uc?export=view&id=1Vq9GLZNZMzQ3swg0GTdN7_PH5nfTSBFm)](https://github.com/cybertrainingrange/redteam)
 
 
 ---
 ## [Phase 2 Group Project](https://drive.google.com/file/d/1H7zrRbCYTUCK0k_M0hsuTlMP_VulvDS5/view?usp=share_link)
 
 
-| [![Phase 2 Project](https://drive.google.com/uc?export=view&id=1gUD8Zx2H4GErKiNa5m1jRo_TdGIbYq5F)](https://drive.google.com/file/d/1H7zrRbCYTUCK0k_M0hsuTlMP_VulvDS5/view?usp=share_link) |
-| ------------------------------- |
+[![Phase 2 Project](https://drive.google.com/uc?export=view&id=1gUD8Zx2H4GErKiNa5m1jRo_TdGIbYq5F)](https://drive.google.com/file/d/1H7zrRbCYTUCK0k_M0hsuTlMP_VulvDS5/view?usp=share_link) 
 
 The primary objective of this project was to learn how to build and configure a website from scratch using the LAMP stack and AWS. Additionally, we aimed to demonstrate our knowledge and skills acquired during Phase 1, particularly in security, and apply what we've learned in Phase 2 regarding AWS. Through this WordPress website, we can showcase our individual skills while also working together as a team and learning from one another.
 
@@ -77,8 +75,7 @@ The primary objective of this project was to learn how to build and configure a 
 
 
 
-| [![Phase 1 Security Lab Project](https://drive.google.com/uc?export=view&id=18p_KGlH43DdAuXH3-GPsYiTfQXMHfIU1)](https://drive.google.com/file/d/1BU9vGP-rplpWunlp1_9la4xD5KDz9dWX/view?usp=share_link) |
-| ------------------------------- |
+[![Phase 1 Security Lab Project](https://drive.google.com/uc?export=view&id=18p_KGlH43DdAuXH3-GPsYiTfQXMHfIU1)](https://drive.google.com/file/d/1BU9vGP-rplpWunlp1_9la4xD5KDz9dWX/view?usp=share_link)
 
 
 
