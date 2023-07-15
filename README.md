@@ -67,6 +67,10 @@ Combining my strong background in Networking with my growing proficiency in Cybe
 
 ![Em Street Photo](https://drive.google.com/uc?export=view&id=1aDgKbHqO_hjh5DfK5178ga-LpgSqS-PK)
 
+
+
+
+
 [Em Street Photo](https://github.com/emiliedionisio/emiliedionisio.github.io/blob/main/emstreetphotos.jpg)
 
 
