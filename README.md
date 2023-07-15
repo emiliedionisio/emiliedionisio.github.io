@@ -73,7 +73,13 @@ When I'm out there with my camera, my mission is to capture those genuine expres
 
 
 
+
+
+
 ![Em Street Photo](https://github.com/emiliedionisio/emiliedionisio.github.io/blob/main/em-streetphotos.png)
+
+
+
 
 
 
