@@ -93,7 +93,10 @@ The primary objective of this project was to learn how to build and configure a 
 
 
 
-[![Phase 1 Security Lab Project](/TKH-Phase1Project.pdf)]
+
+
+
+[Phase 1 Security Lab Project](/TKH-Phase1Project.pdf)
 
 
 
