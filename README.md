@@ -61,27 +61,18 @@ Combining my strong background in Networking with my growing proficiency in Cybe
 
 
 
-
-
-
-
 <!-- ![Em Street Photo](https://drive.google.com/uc?export=view&id=1aDgKbHqO_hjh5DfK5178ga-LpgSqS-PK) -->
 
 
-
-
-
-
-
-![Em Street Photo](https://github.com/emiliedionisio/emiliedionisio.github.io/blob/main/emstreetphotos.jpg)
-
-
-
-
+---
 
 In my spare time when I'm  not studying or working, I love taking leisurely strolls around my neighborhood, city streets, and parks, armed with my trusty camera. It's my way of soaking up the sights and snapping photos of the people and places that catch my eye. But for me, it's not just about clicking random shots—it's about telling stories and creating narratives.
 
 When I'm out there with my camera, my mission is to capture those genuine expressions of joy, grief, and excitement. I want to look through my viewfinder and feel what others are feeling, like I'm right there in the moment with them. Those precious instants that pass by in a heartbeat, I want to freeze them in time forever. It's therapeutic for me, you know, this whole street photography gig. It allows me to imagine what life looks like from the other side of the coin.
+
+
+![Em Street Photo](https://github.com/emiliedionisio/emiliedionisio.github.io/blob/main/emstreetphotos.jpg)
+
 
 And you know what's really cool? Along my walks, I often end up bumping into people and striking up conversations. That's another reason why I'm drawn to street photography—it's a fantastic way to meet new folks and get to know their stories. We'll chat for a bit, exchange a few laughs, and maybe even forge a temporary connection. It adds a whole new dimension to my photo-taking adventures, injecting them with human warmth and authenticity.
 
