@@ -78,7 +78,9 @@ When I'm out there with my camera, my mission is to capture those genuine expres
 
 
 
+
 ![Em Street Photo](https://drive.google.com/uc?export=view&id=10N_wZcCZqvaD2MK6L1pOKbWYr4SrEPDQ)
+
 
 
 
