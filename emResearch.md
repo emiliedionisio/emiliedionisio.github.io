@@ -33,8 +33,8 @@
 
 
 
-| [![Penetration Testing Report](https://drive.google.com/uc?export=view&id=10FouwNPct-Rv80WdmlKDnzcorZ8iwdeL)](https://drive.google.com/file/d/1rLXOe8AOHbMTvmWsyNy2t2PijXosd1w8/view?usp=sharing) |
-| :------------------------------- |
+[![Penetration Testing Report](https://drive.google.com/uc?export=view&id=10FouwNPct-Rv80WdmlKDnzcorZ8iwdeL)](https://drive.google.com/file/d/1rLXOe8AOHbMTvmWsyNy2t2PijXosd1w8/view?usp=sharing) 
+
 
 
 
@@ -67,8 +67,8 @@ This concise research paper provides an overview of the benefits, phases, method
 
 ## [GitHub Demystified: Easy Installation and Efficient Workflow Setup](https://drive.google.com/file/d/1RtANDNXwEHBl9lyTQGnSL2bbFN2T2exH/view?usp=sharing)
 
-| [![A mushroom-head robot](https://drive.google.com/uc?export=view&id=1i0fTK0eShcuhxEkE-f11Uz-saZkzZ_Ea)](https://drive.google.com/file/d/1RtANDNXwEHBl9lyTQGnSL2bbFN2T2exH/view?usp=sharing) |
-| :------------------------------- |
+[![A mushroom-head robot](https://drive.google.com/uc?export=view&id=1i0fTK0eShcuhxEkE-f11Uz-saZkzZ_Ea)](https://drive.google.com/file/d/1RtANDNXwEHBl9lyTQGnSL2bbFN2T2exH/view?usp=sharing) 
+
 
 
 This research paper offers a concise beginner's guide to using GitHub with Git Bash. It provides an overview of GitHub's purpose and significance in version control and collaboration while focusing on essential commands and operations.
@@ -91,8 +91,8 @@ This concise beginner's guide provides an overview of GitHub's purpose and funct
 
 ## [Docker Made Easy: Installing and Setting up in the Linode Cloud](https://drive.google.com/file/d/1FWGcf0IipXCIW15llKk9ZZyIMySjde5C/view?usp=share_link)
 
-| [![A mushroom-head robot](https://drive.google.com/uc?export=view&id=1EXdRIwaOy1_kAsP-NOVQzeYNHKQvVA2D)](https://drive.google.com/file/d/1FWGcf0IipXCIW15llKk9ZZyIMySjde5C/view?usp=share_link) |
-| :------------------------------- |
+[![A mushroom-head robot](https://drive.google.com/uc?export=view&id=1EXdRIwaOy1_kAsP-NOVQzeYNHKQvVA2D)](https://drive.google.com/file/d/1FWGcf0IipXCIW15llKk9ZZyIMySjde5C/view?usp=share_link) 
+
 
 A concise description of Docker and highlights its importance in simplifying application deployment and management. Docker is an open-source platform that allows developers to build, package, and distribute applications as lightweight containers. These containers provide an isolated and portable environment, ensuring consistent execution across different systems.
 
