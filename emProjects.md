@@ -59,9 +59,9 @@
 [![Phase 3](https://drive.google.com/uc?export=view&id=1fDEySru5fV2hZtmKGcYd8_Z1-9Km-PKW)](https://github.com/cybertrainingrange/redteam) 
 
 
-### Phase 3: Capstone Group Project - Sprint 2 - BLUE TEAM (NOT PART OF THIS TEAM)
+## Phase 3: Capstone Group Project - Sprint 2 - BLUE TEAM (NOT PART OF THIS TEAM)
 
-### [Phase 3: Capstone Group Project - Sprint 1 - RED TEAM](https://github.com/cybertrainingrange/redteam)
+## [Phase 3: Capstone Group Project - Sprint 1 - RED TEAM](https://github.com/cybertrainingrange/redteam)
 #### My participation research and technical documentations:
 - [Exploitation](https://github.com/cybertrainingrange/redteam/blob/main/Exploit_edionisio.md)
 - [Demo of Vulnerable S3 bucket](https://github.com/cybertrainingrange/redteam/blob/main/Vulnerable_s3bucket_edionisio.md)
