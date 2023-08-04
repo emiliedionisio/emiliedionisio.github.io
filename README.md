@@ -2,7 +2,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&pause=1000&color=3FF799&width=435&lines=Hello+there%2C++I'm+Emilie!+Welcome+to+my+page!;I'm+a+self+taught+gal.+Always+learning+new+things.;I+have+a+knack+for+Network+Security+and+a+cup+of+joe.;With+10+years+of+experience++as+a+Technical+Support.;Help%2C+Teach%2C+and+Learn+are+always+my+mantra.)](https://git.io/typing-svg) -->
 
 
-### [HOME](https://emiliedionisio.github.io/) | [PROJECTS](/emProjects.md) | [RESEARCH](/emResearch.md) | <!-- [RESUME ON GITPAGE](/emtechres.md) | --> [RESUME PDF VERSION](EmilieDionisio-Res07302023.pdf) | [CERTS](https://www.credly.com/users/emilie-dionisio-charriez/badges)<br /> 
+### [HOME](https://emiliedionisio.github.io/) | [PROJECTS](https://emiliedionisio.github.io/emProjects.html) | [RESEARCH](https://emiliedionisio.github.io/emResearch.html) | <!-- [RESUME ON GITPAGE](https://emiliedionisio.github.io/emtechres.html) | [RESUME PDF VERSION](EmilieDionisio-Res07302023.pdf) --> [CERTS](https://www.credly.com/users/emilie-dionisio-charriez/badges)<br /> 
 
 
 
