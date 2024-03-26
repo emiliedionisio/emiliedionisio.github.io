@@ -8,8 +8,6 @@
 
 
 
-Link: *https://github.com/emiliedionisio/emiliedionisio.github.io/blob/main/Step-by-Step-Guide-Cloud-Cybersecurity-Homelab.pdf**
-
 
 
 ![Main Landing Photo](https://drive.google.com/uc?export=view&id=1JgZG8PanzgYb1vNJzhlf9pBgxXjbIWGK)
