@@ -6,7 +6,7 @@
 ## [HOME](https://emiliedionisio.github.io/) | [PROJECTS](https://emiliedionisio.github.io/emProjects.html) | [RESEARCH](https://emiliedionisio.github.io/emResearch.html) | <!-- [RESUME ON GITPAGE](https://emiliedionisio.github.io/emtechres.html) | [RESUME PDF VERSION](EmilieDionisio-Res07302023.pdf) --> [CERTS](https://www.credly.com/users/emilie-dionisio-charriez/badges)
 
 
-
+Link: https://github.com/emiliedionisio/emiliedionisio.github.io/blob/main/Step-by-Step-Guide-Cloud-Cybersecurity-Homelab.pdf
 
 
 
