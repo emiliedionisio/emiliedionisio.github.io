@@ -135,7 +135,7 @@ And you know what's really cool? Along my walks, I often end up bumping into peo
 
 So, yeah, for me, it's not just about capturing pretty pictures. It's about embracing the experience, diving into the streets, and immersing myself in the colorful tapestry of life. Every click of the camera brings me closer to understanding the world and the people who inhabit it. It's my way of freezing the essence of existence, one frame at a time. If you want to check out my photos, you can check this out: [f1.4streetphotog](https://f14streetphotog.wixsite.com/fstopmoment).
 
-<-- ## 👩‍💻 [My Resume](https://github.com/emiliedionisio/emiliedionisio.github.io/blob/main/EmilieDionisio-Res2023%26.pdf) -->
+[// ## 👩‍💻 [My Resume](https://github.com/emiliedionisio/emiliedionisio.github.io/blob/main/EmilieDionisio-Res2023%26.pdf)]
 
 ---
 
