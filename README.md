@@ -37,7 +37,6 @@
 </p>
 
 📫 emdiotech@proton.me <br />
-📲 +1.646.770.1205
 <p>
   <a href="https://www.linkedin.com/in/emdionisio/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
